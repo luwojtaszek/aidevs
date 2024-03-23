@@ -3,7 +3,8 @@
   "module": "index.ts",
   "type": "module",
   "scripts": {
-    "task1": "bun tasks/task1/task1.ts"
+    "task1": "bun tasks/task1/task1_cookies.ts",
+    "task2": "bun tasks/task2/task2_moderation.ts"
   },
   "devDependencies": {
     "bun-types": "latest"
@@ -27,6 +28,7 @@
     "node-html-markdown": "^1.3.0",
     "objection": "^3.1.2",
     "openai": "^4.11.0",
+    "prettier": "^3.2.5",
     "qdrant": "^1.3.1",
     "sqlite3": "^5.1.6",
     "tiktoken": "^1.0.10",
