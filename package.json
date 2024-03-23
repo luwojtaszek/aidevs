@@ -5,7 +5,8 @@
   "scripts": {
     "task1": "bun tasks/task1/task1_cookies.ts",
     "task2": "bun tasks/task2/task2_moderation.ts",
-    "task3": "bun tasks/task3/task3_blogger.ts"
+    "task3": "bun tasks/task3/task3_blogger.ts",
+    "task4": "bun tasks/task4/task4_liar.ts"
   },
   "devDependencies": {
     "bun-types": "latest"

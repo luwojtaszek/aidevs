@@ -1,5 +1,5 @@
-import axios, {AxiosResponse} from "axios";
-import {env} from "process";
+import axios, { AxiosResponse } from 'axios';
+import { env } from 'bun';
 
 export type BaseResponse = {
   code: number;
@@ -19,34 +19,39 @@ function validatedResponse(r: AxiosResponse): AxiosResponse {
 }
 
 const axiosInstance = axios.create({
-  baseURL: "https://tasks.aidevs.pl",
+  baseURL: 'https://tasks.aidevs.pl',
   headers: {
-    'Accept-Encoding': 'gzip'
-  }
+    'Accept-Encoding': 'gzip',
+  },
 });
 
 axiosInstance.interceptors.response.use(
-  response => validatedResponse(response),
-  error => Promise.reject(error)
+  (response) => validatedResponse(response),
+  (error) => Promise.reject(error)
 );
 
 interface Api {
-  auth(params: {taskName: string}): Promise<AuthResponse>;
+  auth(params: { taskName: string }): Promise<AuthResponse>;
 
-  getTask<T extends BaseResponse>(params: {token: string}): Promise<T>;
+  getTask<T extends BaseResponse>(params: { token: string }): Promise<T>;
 
-  answerTask<T>(params: {token: string; answer: T}): Promise<BaseResponse>;
+  postTask<T extends BaseResponse>(params: { token: string; body: any }): Promise<T>;
+
+  answerTask<T>(params: { token: string; answer: T }): Promise<BaseResponse>;
 }
 
 export const api: Api = {
-  auth: async (params: {taskName: string}): Promise<AuthResponse> => {
-    const data = {apikey: env.AIDEVS_API_KEY};
-    return axiosInstance.post<AuthResponse>(`/token/${params.taskName}`, data).then(r => r.data);
+  postTask<T extends BaseResponse>(params: { token: string; body: any }): Promise<T> {
+    return axiosInstance.post<T>(`/task/${params.token}`, params.body).then((r) => r.data);
   },
-  getTask: async <T extends BaseResponse>(params: {token: string}): Promise<T> => {
-    return axiosInstance.get<T>(`/task/${params.token}`).then(r => r.data);
+  auth: async (params: { taskName: string }): Promise<AuthResponse> => {
+    const data = { apikey: env.AIDEVS_API_KEY };
+    return axiosInstance.post<AuthResponse>(`/token/${params.taskName}`, data).then((r) => r.data);
   },
-  answerTask: async <T>(params: {token: string; answer: T}): Promise<BaseResponse> => {
-    return axiosInstance.post<BaseResponse>(`/answer/${params.token}`, {answer: params.answer}).then(r => r.data);
-  }
+  getTask: async <T extends BaseResponse>(params: { token: string }): Promise<T> => {
+    return axiosInstance.get<T>(`/task/${params.token}`).then((r) => r.data);
+  },
+  answerTask: async <T>(params: { token: string; answer: T }): Promise<BaseResponse> => {
+    return axiosInstance.post<BaseResponse>(`/answer/${params.token}`, { answer: params.answer }).then((r) => r.data);
+  },
 };
