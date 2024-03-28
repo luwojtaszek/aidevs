@@ -8,7 +8,8 @@
     "task3": "bun tasks/task3/task3_blogger.ts",
     "task4": "bun tasks/task4/task4_liar.ts",
     "task5": "bun tasks/task5/task5_inprompt.ts",
-    "task6": "bun tasks/task6/task6_embedding.ts"
+    "task6": "bun tasks/task6/task6_embedding.ts",
+    "task7": "bun tasks/task7/task7_whisper.ts"
   },
   "devDependencies": {
     "bun-types": "latest"
