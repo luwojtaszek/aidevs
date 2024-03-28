@@ -27,9 +27,11 @@ const { content } = await chat.invoke([
   new HumanMessage(`${task.answer}`),
 ]);
 
-const answered = await api.answerTask<string>({
-  token: token,
-  answer: content,
-});
+if (typeof content === 'string') {
+  const answered = await api.answerTask<string>({
+    token: token,
+    answer: content,
+  });
 
-console.log(`\nResult:\n${JSON.stringify(answered, null, 2)}`);
+  console.log(`\nResult:\n${JSON.stringify(answered, null, 2)}`);
+}

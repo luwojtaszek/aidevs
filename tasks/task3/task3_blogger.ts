@@ -45,11 +45,13 @@ const { content } = await chat.invoke([
 
 type OpenAiResponse = Array<{ header: string; content: string }>;
 
-const answer = JSON.parse(content) as OpenAiResponse;
+if (typeof content === 'string') {
+  const answer = JSON.parse(content) as OpenAiResponse;
 
-const answered = await api.answerTask<AnswerType>({
-  token: token,
-  answer: answer.map((it) => it.content),
-});
+  const answered = await api.answerTask<AnswerType>({
+    token: token,
+    answer: answer.map((it) => it.content),
+  });
 
-console.log(answered);
+  console.log(answered);
+}
