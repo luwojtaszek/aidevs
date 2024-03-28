@@ -1,25 +1,20 @@
 import { api, BaseResponse } from '../../core/api.ts';
 import { ChatOpenAI } from '@langchain/openai';
 import { HumanMessage, SystemMessage } from 'langchain/schema';
+import { AnswerType, InPromptTaskResponse } from './types.ts';
 
-export type AnswerType = string;
+const main = async (): Promise<BaseResponse> => {
+  const token = (await api.auth({ taskName: 'inprompt' })).token;
 
-export type InPromptTaskResponse = BaseResponse & {
-  input: Array<string>;
-  question: string;
-};
+  const task = await api.getTask<InPromptTaskResponse>({
+    token: token,
+  });
 
-const token = (await api.auth({ taskName: 'inprompt' })).token;
+  const chat = new ChatOpenAI({ modelName: 'gpt-4' });
 
-const task = await api.getTask<InPromptTaskResponse>({
-  token: token,
-});
-
-const chat = new ChatOpenAI({ modelName: 'gpt-4' });
-
-async function resolvePersonName(question: string): Promise<string> {
-  const { content } = await chat.invoke([
-    new SystemMessage(`
+  async function resolvePersonName(question: string): Promise<string> {
+    const { content } = await chat.invoke([
+      new SystemMessage(`
         Hey, I'm going to ask you a question about some person. 
         Please, extract the name of the person from the question and provide it as an answer.
         You should provide the person's name in the answer and nothing else.
@@ -29,46 +24,49 @@ async function resolvePersonName(question: string): Promise<string> {
         Result: Alojzy
         ###
     `),
-    new HumanMessage(question),
-  ]);
+      new HumanMessage(question),
+    ]);
 
-  if (typeof content === 'string') {
-    return content;
-  } else {
-    throw new Error(`Invalid response type: ${typeof content} from OpenAI`);
+    if (typeof content === 'string') {
+      return content;
+    } else {
+      throw new Error(`Invalid response type: ${typeof content} from OpenAI`);
+    }
   }
-}
 
-function filterInput(input: Array<string>, personName: string): Array<string> {
-  const personNameLowerCased = personName.toLowerCase();
-  return input.filter((question) => question.toLowerCase().includes(personNameLowerCased));
-}
+  function filterInput(input: Array<string>, personName: string): Array<string> {
+    const personNameLowerCased = personName.toLowerCase();
+    return input.filter((question) => question.toLowerCase().includes(personNameLowerCased));
+  }
 
-async function answerQuestion(questions: string, context: Array<String>): Promise<string> {
-  const { content } = await chat.invoke([
-    new SystemMessage(`
+  async function answerQuestion(questions: string, context: Array<String>): Promise<string> {
+    const { content } = await chat.invoke([
+      new SystemMessage(`
         Hey, I'm going to ask you a question about some person. 
         Answer the questions ultra-concisely using CONTEXT below and nothing more and truthfully says "don't know" when the CONTEXT is not enough to give an answer.
         
         context###${context.join('\n')}###
     `),
-    new HumanMessage(task.question),
-  ]);
+      new HumanMessage(task.question),
+    ]);
 
-  if (typeof content === 'string') {
-    return content;
-  } else {
-    throw new Error(`Invalid response type: ${typeof content} from OpenAI`);
+    if (typeof content === 'string') {
+      return content;
+    } else {
+      throw new Error(`Invalid response type: ${typeof content} from OpenAI`);
+    }
   }
-}
 
-const personName = await resolvePersonName(task.question);
-const filteredInput = filterInput(task.input, personName);
-const answer = await answerQuestion(task.question, filteredInput);
+  const personName = await resolvePersonName(task.question);
+  const filteredInput = filterInput(task.input, personName);
+  const answer = await answerQuestion(task.question, filteredInput);
 
-const answered = await api.answerTask<AnswerType>({
-  token: token,
-  answer: answer,
-});
+  return await api.answerTask<AnswerType>({
+    token: token,
+    answer: answer,
+  });
+};
+
+const answered = await main();
 
 console.log(answered);

@@ -7,7 +7,8 @@
     "task2": "bun tasks/task2/task2_moderation.ts",
     "task3": "bun tasks/task3/task3_blogger.ts",
     "task4": "bun tasks/task4/task4_liar.ts",
-    "task5": "bun tasks/task5/task5_inprompt.ts"
+    "task5": "bun tasks/task5/task5_inprompt.ts",
+    "task6": "bun tasks/task6/task6_embedding.ts"
   },
   "devDependencies": {
     "bun-types": "latest"
