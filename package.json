@@ -3,6 +3,7 @@
   "module": "index.ts",
   "type": "module",
   "scripts": {
+    "scrapping": "bun make/seo-karola/scrapping.js",
     "task1": "bun tasks/task1/task1_cookies.ts",
     "task2": "bun tasks/task2/task2_moderation.ts",
     "task3": "bun tasks/task3/task3_blogger.ts",
