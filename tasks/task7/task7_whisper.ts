@@ -1,5 +1,5 @@
 import { api, BaseResponse } from '../../core/api.ts';
-import { AnswerType, EmbeddingTaskResponse } from './types.ts';
+import { AnswerType, WhisperTaskResponse } from './types.ts';
 import { extractUrls } from '../../core/utils.ts';
 import { downloadFile } from '../../core/axios.ts';
 import path from 'path';
@@ -8,7 +8,7 @@ import { OpenAIWhisperAudio } from 'langchain/document_loaders/fs/openai_whisper
 const main = async (): Promise<BaseResponse> => {
   const token = (await api.auth({ taskName: 'whisper' })).token;
 
-  const task = await api.getTask<EmbeddingTaskResponse>({
+  const task = await api.getTask<WhisperTaskResponse>({
     token: token,
   });
 
