@@ -1,0 +1,2 @@
+### Get currencies
+GET http://api.nbp.pl/api/exchangerates/tables/A/
