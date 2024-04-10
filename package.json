@@ -12,7 +12,8 @@
     "task6": "bun tasks/task6/task6_embedding.ts",
     "task7": "bun tasks/task7/task7_whisper.ts",
     "task8": "bun tasks/task8/task8_functions.ts",
-    "task9": "bun tasks/task9/task9_rodo.ts"
+    "task9": "bun tasks/task9/task9_rodo.ts",
+    "task10": "bun tasks/task10/task10_scrapper.ts"
   },
   "devDependencies": {
     "bun-types": "latest"

@@ -1,6 +1,12 @@
 import axios from 'axios';
 import fs from 'fs/promises';
 
+export const axiosInstance = axios.create({
+  headers: {
+    'Accept-Encoding': 'gzip',
+  },
+});
+
 export type DownloadFileConfig = {
   url: string;
   outputDir: string;
