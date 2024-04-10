@@ -15,7 +15,8 @@
     "task9": "bun tasks/task9/task9_rodo.ts",
     "task10": "bun tasks/task10/task10_scrapper.ts",
     "task11": "bun tasks/task11/task11_whoami.ts",
-    "task12": "bun tasks/task12/task12_qdrant.ts"
+    "task12": "bun tasks/task12/task12_qdrant.ts",
+    "task13": "bun tasks/task13/task13_people.ts"
   },
   "devDependencies": {
     "bun-types": "latest"

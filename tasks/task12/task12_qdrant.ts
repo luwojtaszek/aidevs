@@ -3,7 +3,7 @@ import { AnswerType, ArchiveItem, SearchTaskResponse } from './types.ts';
 import { withErrorHandling } from '../../core/errors.ts';
 import { QdrantClient } from '@qdrant/js-client-rest';
 import { OpenAIEmbeddings } from 'langchain/embeddings/openai';
-import { ensureCollection } from './quadrant.ts';
+import { ensureCollection } from '../../core/quadrant.ts';
 import { TextLoader } from 'langchain/document_loaders/fs/text';
 import { Document } from 'langchain/document';
 import { v4 as uuidv4 } from 'uuid';
