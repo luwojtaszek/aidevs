@@ -1,0 +1,770 @@
+[
+    {
+        "title": "Czym s\u0105 'Feature Flags' i jak ich u\u017cywa\u0107? (film, 53 minuty, PL)",
+        "url": "https:\/\/www.youtube.com\/watch?v=qWwnCH9QUsE",
+        "info": "INFO: Jak wprowadzi\u0107 do produkcji now\u0105 funkcj\u0119 lub fixa, kt\u00f3ry by\u0107 mo\u017ce zadzia\u0142a, a by\u0107 mo\u017ce spowoduje pewien problem? Na pomoc przychodz\u0105 Feature Flags\/Toggles. Tylko jak z nich prawid\u0142owo korzysta\u0107 i czego unika\u0107? Tego dowiesz si\u0119 z naszego filmu.",
+        "date": "2023-10-27"
+    },
+    {
+        "title": "Oort - naucz si\u0119 RUST-a graj\u0105c w gr\u0119",
+        "url": "https:\/\/oort.rs\/",
+        "info": "INFO: Sterujesz statkiem kosmicznym i wykonujesz zadania, tworz\u0105c kod w j\u0119zyku Rust. Nie znam tego j\u0119zyka, ale bez wi\u0119kszych problem\u00f3w, 'na ch\u0142opski rozum', rozwi\u0105za\u0142em kilka pierwszych zada\u0144, wzoruj\u0105c si\u0119 na podanych przyk\u0142adach. Misj\u0119 wybierasz w rozwijanym menu w prawym g\u00f3rnym rogu strony. Warto zaliczy\u0107 wszystkie misje z tutoriala, aby zrozumie\u0107 zasady sterowania statkiem i mechanik\u0119 gry.",
+        "date": "2023-10-27"
+    },
+    {
+        "title": "Popularne wzorce integracji aplikacji z API",
+        "url": "https:\/\/www.freecodecamp.org\/news\/api-integration-patterns\/",
+        "info": "INFO: Czym r\u00f3\u017cni si\u0119 pooling od long polling? Jaka jest r\u00f3\u017cnica mi\u0119dzy REST, GraphQL a RPC? Do czego potrzebne Ci s\u0105 websockety? Czym s\u0105 webhooki? Ten materia\u0142 by\u0142by dobry, na przyk\u0142ad, jako przygotowanie do rozmowy o prac\u0119 na stanowisko developera.",
+        "date": "2023-10-27"
+    },
+    {
+        "title": "Przegl\u0105d 12 framework\u00f3w webowych dla Pythona",
+        "url": "https:\/\/dev.to\/urwashipriya651\/top-12-python-web-development-frameworks-in-2023-3mom",
+        "info": "INFO: \u015awiat Pythona webowego nie ko\u0144czy si\u0119 na Django i Flasku. Istniej\u0105 jeszcze inne, r\u00f3wnie godne uwagi projekty, o kt\u00f3rych istnieniu mog\u0142e\u015b nigdy nie s\u0142ysze\u0107.",
+        "date": "2023-10-27"
+    },
+    {
+        "title": "Stosowanie memoizacji w asynchronicznych funkcjach JavaScript",
+        "url": "https:\/\/dev.to\/devsmitra\/maximizing-performance-how-to-memoize-async-functions-in-javascript-4on8",
+        "info": "INFO: Jak przyspieszy\u0107 asynchroniczne funkcje w JS? Trzeba skorzysta\u0107 z memoizacji, ale najpierw wypada wiedzie\u0107, co to jest, jak z tego skorzysta\u0107 i jak zrobi\u0107 to dobrze. Ten artyku\u0142 skutecznie wprowadzi Ci\u0119 w przedstawione zagadnienie.",
+        "date": "2023-10-27"
+    },
+    {
+        "title": "PGVector vs Pinecone - koszty i wydajno\u015b\u0107",
+        "url": "https:\/\/dev.to\/supabase\/pgvector-vs-pinecone-cost-and-performance-22g5",
+        "info": "INFO: Czy Postgres w po\u0142\u0105czeniu z pgvector jest w stanie zast\u0105pi\u0107 specjalistyczne, wektorowe bazy danych, takie jak Pinecone, w zadaniach zwi\u0105zanych z AI? Eksperci z Supabase postanowili to sprawdzi\u0107. W artykule znajdziesz wyniki test\u00f3w, kt\u00f3re pokazuj\u0105, \u017ce pgvector potrafi obs\u0142u\u017cy\u0107 znacznie wi\u0119cej zapyta\u0144 na sekund\u0119, b\u0119d\u0105c jednocze\u015bnie ta\u0144szym rozwi\u0105zaniem.",
+        "date": "2023-10-27"
+    },
+    {
+        "title": "Protomapa - darmowa mapa ca\u0142ego \u015bwiata do u\u017cytku webowego",
+        "url": "https:\/\/protomaps.com\/",
+        "info": "INFO: Potrzebujesz osadzi\u0107 map\u0119 na swojej stronie, jednak nie chcesz korzysta\u0107 z p\u0142atnych API ani integrowa\u0107 si\u0119 z \u017cadn\u0105 zewn\u0119trzn\u0105 us\u0142ug\u0105? Protomapa to jeden plik (tak, m\u00f3wi\u0119 powa\u017cnie!) zawieraj\u0105cy map\u0119 ca\u0142ego \u015bwiata. Taki plik wa\u017cy nieco ponad 100GB, ale mo\u017ce by\u0107 strumieniowany z CDN-a, wi\u0119c przegl\u0105danie takiej mapy generuje zaledwie kilka KB transferu.",
+        "date": "2023-10-27"
+    },
+    {
+        "title": "Wykorzystanie JSON-server do szybkiego postawienia backendu",
+        "url": "https:\/\/dev.to\/michaelikoko\/using-json-server-to-create-a-mock-back-end-for-front-end-development-2mgp",
+        "info": "INFO: Czy kiedykolwiek potrzebowa\u0142e\u015b szybko stworzy\u0107 mock-up back-endu dla swojego projektu front-endowego? Ten artyku\u0142 przedstawia narz\u0119dzie o nazwie 'json-server', kt\u00f3re umo\u017cliwia tworzenie takiego API. Jest idealne do szybkiego prototypowania.",
+        "date": "2023-10-27"
+    },
+    {
+        "title": "AudioPen - aplikacja podsumowuj\u0105ca Twoje przemy\u015blenia",
+        "url": "https:\/\/audiopen.ai\/",
+        "info": "INFO: Jest to aplikacja webowa. Udzielasz jej dost\u0119pu do mikrofonu i rozpoczynasz sw\u00f3j monolog. Celem aplikacji nie jest tylko wykonanie transkrypcji, ale tak\u017ce zwi\u0119z\u0142e podsumowanie tego, co zosta\u0142o powiedziane. Oznacza to, \u017ce z nieuporz\u0105dkowanych, wypowiadanych po sobie my\u015bli na konkretny temat, mo\u017ce powsta\u0107 nawet do\u015b\u0107 sensownie brzmi\u0105cy artyku\u0142 czy wpis do medi\u00f3w spo\u0142eczno\u015bciowych. W wersji darmowej mo\u017cesz wygenerowa\u0107 tylko jedn\u0105 notatk\u0119, ale po jej usuni\u0119ciu, mo\u017cesz nagra\u0107 kolejn\u0105. Po za\u0142o\u017ceniu konta (darmowego) otrzymujesz limit 10 notatek. Wersja PRO jest p\u0142atna.",
+        "date": "2023-10-27"
+    },
+    {
+        "title": "stylowanie link\u00f3w zewn\u0119trznych za pomoc\u0105 selektor\u00f3w atrybut\u00f3w",
+        "url": "https:\/\/css-irl.info\/styling-external-links-with-attribute-selectors\/",
+        "info": "INFO: Samo stylowanie link\u00f3w mo\u017ce Ci si\u0119 na niewiele przyda\u0107, ale technika wykorzystania selektor\u00f3w zdecydowanie jest czym\u015b, co cz\u0119sto b\u0119dziesz u\u017cywa\u0107 w projektach frontendowych. Warto rzuci\u0107 okiem.",
+        "date": "2023-10-27"
+    },
+    {
+        "title": "Czym jest\/by\u0142a demoscena? - nostalgiczne wspomniania",
+        "url": "https:\/\/onthearts.com\/p\/what-is-the-demoscene",
+        "info": "INFO: Demoscena to specyficzny rodzaj sztuki cyfrowej, kt\u00f3ry narodzi\u0142 si\u0119 w latach 80., a jego wp\u0142yw widoczny jest na przyk\u0142ad w grach komputerowych. Wieloletni cz\u0142onek demosceny opowiada, czym jest ta spo\u0142eczno\u015b\u0107, jak wygl\u0105daj\u0105 jej korzenie i jak prezentuje si\u0119 demoscena dzi\u015b.",
+        "date": "2023-10-27"
+    },
+    {
+        "title": "Diagrams as a Code - czym jest to podej\u015bcie i dlaczego warto je pozna\u0107 i stosowa\u0107?",
+        "url": "https:\/\/devszczepaniak.pl\/mermaid-diagrams-as-a-code\/",
+        "info": "INFO: Istnieje wiele aplikacji do generowania diagram\u00f3w, kt\u00f3re przedstawiaj\u0105 np. algorytmy czy infrastruktur\u0119 sieci. Dlaczego jednak mia\u0142by\u015b tworzy\u0107 takie grafiki w kodzie? Artyku\u0142 odpowiada na to pytanie i jednocze\u015bnie pokazuje, jak przygotowa\u0107 sw\u00f3j pierwszy diagram z Mermaid oraz jak zintegrowa\u0107 takie rozwi\u0105zanie, np. z Docsify.",
+        "date": "2023-10-27"
+    },
+    {
+        "title": "Tailwind vs Semantic CSS - por\u00f3wnanie",
+        "url": "https:\/\/nuejs.org\/blog\/tailwind-vs-semantic-css\/",
+        "info": "INFO: Tailwind niew\u0105tpliwie przyspiesza tworzenie stron internetowych, ale jak wygl\u0105da taka 'tailwindowa' aplikacja w zestawieniu z klasycznym, semantycznym CSS-em? Autor szczeg\u00f3\u0142owo analizuje kwestie rozmiaru kodu, szybko\u015bci renderowania i elastyczno\u015bci obu rozwi\u0105za\u0144.",
+        "date": "2023-10-27"
+    },
+    {
+        "title": "Ulepszanie klas w JavaScript z u\u017cyciem Closures",
+        "url": "https:\/\/gaurangtandon.com\/blog\/javascript-class-closure",
+        "info": "INFO: Klasy maj\u0105 swoje wady. Nie wiesz, jakie? Koniecznie rzu\u0107 okiem na podlinkowany artyku\u0142. Problemy z atrybutami prywatnymi, brak atrybut\u00f3w readonly, wszechobecne 'this' i wiele innych. Jak temu zaradzi\u0107?",
+        "date": "2023-10-27"
+    },
+    {
+        "title": "Encodowanie Base64 - jak to dzia\u0142a?",
+        "url": "https:\/\/www.akshaykhot.com\/base64-encoding-explained\/",
+        "info": "INFO: Autor przeczyta\u0142 RFC 4648, gdzie zdefiniowano BASE64, i postanowi\u0142 podzieli\u0107 si\u0119 tym, czego si\u0119 dowiedzia\u0142. Jak BASE64 konwertuje dane binarne na tekst? Dlaczego jest to u\u017cywane i jak samodzielnie zakodowa\u0107 i odkodowa\u0107 tekst w r\u00f3\u017cnych j\u0119zykach programowania? Czasami warto wiedzie\u0107, jak dzia\u0142aj\u0105 \"pod spodem\" takie popularne algorytmy.",
+        "date": "2023-10-27"
+    },
+    {
+        "title": "Praca z ogromnymi (wiele GB) plikami JSON",
+        "url": "https:\/\/thenybble.de\/posts\/json-analysis\/",
+        "info": "INFO: Nie ka\u017cdy plik JSON to ma\u0142y, zgrabny dokument. Czasami mo\u017cesz mie\u0107 do czynienia z danymi, kt\u00f3rych rozmiar przewy\u017csza mo\u017cliwo\u015bci narz\u0119dzi, z kt\u00f3rych do tej pory korzysta\u0142e\u015b. Jak sobie z tym poradzi\u0107 i jak pracowa\u0107 z danymi o takich rozmiarach?",
+        "date": "2023-10-27"
+    },
+    {
+        "title": "Ban na FBAds za... reklamy kurs\u00f3w Pythona",
+        "url": "https:\/\/lerner.co.il\/2023\/10\/19\/im-banned-for-life-from-advertising-on-meta-because-i-teach-python\/",
+        "info": "INFO: Zaskakuj\u0105cy przypadek instruktora Pythona i biblioteki Pandas, kt\u00f3ry do\u017cywotnio zosta\u0142 zbanowany z mo\u017cliwo\u015bci reklamowania swoich kurs\u00f3w na platformach Meta. Dlaczego? Automaty Meta uzna\u0142y, \u017ce zajmuje si\u0119 on handlem \u017cywymi zwierz\u0119tami.",
+        "date": "2023-10-27"
+    },
+    {
+        "title": "Przegl\u0105darka Brave instaluje VPN-a bez wiedzy\/zgody u\u017cytkownika?",
+        "url": "https:\/\/www.ghacks.net\/2023\/10\/18\/brave-is-installing-vpn-services-without-user-consent\/",
+        "info": "INFO: Czy korzystasz z przegl\u0105darki Brave na swoim urz\u0105dzeniu z systemem Windows? Je\u015bli tak, to prawdopodobnie masz r\u00f3wnie\u017c zainstalowane us\u0142ugi Brave VPN - bez Twojej zgody. Dowiedz si\u0119 wi\u0119cej na ten temat i sprawd\u017a, jak wy\u0142\u0105czy\u0107 te us\u0142ugi.",
+        "date": "2023-10-27"
+    },
+    {
+        "title": "Podr\u0119cznik dla CTO dzia\u0142aj\u0105cego w startupie - jak wygl\u0105da ta praca?",
+        "url": "https:\/\/uw7.org\/un_3d20a3f87b31f\/",
+        "info": "INFO: Czy zawsze chcia\u0142e\u015b wiedzie\u0107, co robi CTO w startupie? Jeden z CTO podzieli\u0142 si\u0119 swoj\u0105 wiedz\u0105 i do\u015bwiadczeniem w obszernym podr\u0119czniku. Znajdziesz tu wiele cennych informacji, kt\u00f3re pomog\u0105 Ci zrozumie\u0107 i lepiej wykonywa\u0107 t\u0119 rol\u0119.",
+        "date": "2023-10-27"
+    },
+    {
+        "title": "ChatGPT na produkcji - cz\u0119ste nieporozumienia (film, 30 minut)",
+        "url": "https:\/\/www.youtube.com\/watch?v=txDIINfhHeo",
+        "info": "INFO: Podej\u015bcie \"AI as a backend\" zyskuje na popularno\u015bci. Niestety nie wszyscy programi\u015bci tworz\u0105cy interakcje mi\u0119dzy modelami j\u0119zykowymi, a systemami IT wiedz\u0105, jak to zrobi\u0107 wydajnie, bezpiecznie i w spos\u00f3b, kt\u00f3ry zagwarantuje poprawne dzia\u0142anie aplikacji. Ten kr\u00f3tki wyk\u0142ad przechodzi przez popularne nieporozumienia zwi\u0105zane z wdra\u017caniem takich rozwi\u0105za\u0144.",
+        "date": "2023-10-20"
+    },
+    {
+        "title": "Wi\u0119cej zaprosze\u0144 na rozmowy o prac\u0119, wi\u0119cej ofert i lepsze wynagrodzenia w IT - poradnik",
+        "url": "https:\/\/careercutler.substack.com\/p\/how-to-get-more-interviews-offers",
+        "info": "INFO: Chcesz pracowa\u0107 w jednym z gigant\u00f3w technologicznych, ale nie wiesz, jak przyci\u0105gn\u0105\u0107 ich uwag\u0119? Alan Stein, CEO Kadima Careers, podpowiada, jak zwi\u0119kszy\u0107 swoje szanse na rozmow\u0119 kwalifikacyjn\u0105, jak dostawa\u0107 wi\u0119cej ofert pracy i jak negocjowa\u0107 wy\u017csze wynagrodzenie. Jest tam te\u017c troch\u0119 hint\u00f3w na temat poprawy CV i budowy relacji.",
+        "date": "2023-10-20"
+    },
+    {
+        "title": "Czy 'pistolety \u015bwietlne' (Nintendo\/Pegazus) dzia\u0142aj\u0105 z monitorami LCD?",
+        "url": "https:\/\/nicole.express\/2023\/bang-bang-youre-dead.html",
+        "info": "INFO: Twoja ulubiona strzelanka z dzieci\u0144stwa nie dzia\u0142a na nowoczesnym telewizorze LCD? Ten artyku\u0142 omawia technologi\u0119 dzia\u0142ania tych pistolet\u00f3w \u015bwietlnych i wyja\u015bnia, dlaczego nie s\u0105 one kompatybilne z LCD. Ale nie martw si\u0119, autor podaje r\u00f3wnie\u017c rozwi\u0105zanie, kt\u00f3re pozwoli ci wr\u00f3ci\u0107 do strzelania do kaczek na nowoczesnym ekranie ;)",
+        "date": "2023-10-20"
+    },
+    {
+        "title": "Code Review zamiast programowania na rozmowie o prac\u0119?",
+        "url": "https:\/\/chrlschn.dev\/blog\/2023\/07\/interviews-age-of-ai-ditch-leetcode-try-code-reviews-instead\/",
+        "info": "INFO: Ciekawe podej\u015bcie. Autor proponuje, aby zamiast dawa\u0107 programistom kod do napisania, da\u0107 im code review do przegl\u0105dni\u0119cia i zasugerowania stosownych zmian. Co ciekawe, to podej\u015bcie ma (wg autora) zwalczy\u0107 problem mniej uczciwych kandydat\u00f3w wspieraj\u0105cych si\u0119 AI podczas przygotowywania kodu.",
+        "date": "2023-10-20"
+    },
+    {
+        "title": "Por\u00f3wnanie Raspberry Pi 5, Orange Pi 5 Plus i Rock 5 Model B",
+        "url": "https:\/\/picockpit.com\/raspberry-pi\/raspberry-pi-5-vs-orange-pi-5-plus-vs-rock-5-model-b\/",
+        "info": "INFO: Czy najnowsze Raspberry Pi 5 jest lepsze od konkurencji? Autor por\u00f3wnuje trzy modele miniaturowych komputer\u00f3w jednop\u0142ytkowych (SBC) - Raspberry Pi 5, Orange Pi 5 Plus i Rock 5 Model B. Analizuje ich specyfikacje, wydajno\u015b\u0107 oraz cen\u0119. Do\u015b\u0107 skondensowane por\u00f3wnanie.",
+        "date": "2023-10-20"
+    },
+    {
+        "title": "Od juniora do seniora w WebDev - roadmapa",
+        "url": "https:\/\/dev.to\/aswin2001barath\/junior-to-senior-web-developer-roadmap-breakdown-1525",
+        "info": "INFO: Spis zagadnie\u0144, kt\u00f3re wed\u0142ug autora warto opanowa\u0107, aby rozwin\u0105\u0107 si\u0119 z poziomu stanowisk juniorskich w \u015bwiecie webdevelopmentu. Artyku\u0142 zawiera tematy do samodzielnego zg\u0142\u0119bienia, ale nie podaje niestety sugerowanych \u017ar\u00f3de\u0142 wiedzy do nauki.",
+        "date": "2023-10-20"
+    },
+    {
+        "title": "Ostatnie dni na zakup szkolenia AI Devs [autopromocja]",
+        "url": "https:\/\/www.aidevs.pl\/?ref=unknowUN",
+        "info": "INFO: Je\u015bli jeszcze nie jeste\u015b na pok\u0142adzie szkolenia dla programist\u00f3w chc\u0105cych wej\u015b\u0107 w \u015bwiat integracji system\u00f3w IT z modelami j\u0119zykowymi, to ju\u017c w niedziel\u0119 o p\u00f3\u0142nocy stracisz mo\u017cliwo\u015b\u0107 do\u0142\u0105czenia. Ruszamy 23 pa\u017adziernika.",
+        "date": "2023-10-20"
+    },
+    {
+        "title": "Wp\u0142yw ChatGPT na nauk\u0119 programowania - wyniki ankiety od Programiz",
+        "url": "https:\/\/programiz.pro\/report",
+        "info": "INFO: Jak ChatGPT wp\u0142ywa na nauk\u0119 programowania i rynek pracy? Oto wyniki ankiety, kt\u00f3re pokazuj\u0105, \u017ce ChatGPT jest coraz cz\u0119\u015bciej wykorzystywany jako podstawowe narz\u0119dzie do nauki programowania, a 30% respondent\u00f3w nawet uwa\u017ca, \u017ce jest lepszy od wyk\u0142ad\u00f3w na uczelni. Rzu\u0107 okiem na wyniki ca\u0142ej ankiety.",
+        "date": "2023-10-20"
+    },
+    {
+        "title": "Animacja obiektu po \u015bcie\u017cce w CSS",
+        "url": "https:\/\/www.smashingmagazine.com\/2023\/10\/animate-along-path-css\/",
+        "info": "INFO: Kilka ciekawych trik\u00f3w na implementacj\u0119 ruchu obiektu po wcze\u015bniej ustalonej \u015bcie\u017cce (np. po okr\u0119gu). Przydatne nie tylko przy tworzeniu np. loader\u00f3w do aplikacji, ale te\u017c przy realizacji bardziej zaawansowanych efekt\u00f3w.",
+        "date": "2023-10-20"
+    },
+    {
+        "title": "Wydajno\u015b\u0107 Linuxa - jak j\u0105 mierzy\u0107, jak wizualizowa\u0107, jak szuka\u0107 w\u0105skich garde\u0142?",
+        "url": "https:\/\/www.brendangregg.com\/linuxperf.html",
+        "info": "INFO: Autor podaje sporo narz\u0119dzi do analizy wydajno\u015bci, tuningu, benchmarkingu i obserwacji systemu Linux. Znajdziesz tu r\u00f3wnie\u017c wiele praktycznych przyk\u0142ad\u00f3w i porad. To kompendium wiedzy z licznymi linkami do film\u00f3w\/artyku\u0142\u00f3w. Ma\u0142o estetyczna forma podania wiedzy, ale za to sporo ciekawostek dla pasjonat\u00f3w Linuksa.",
+        "date": "2023-10-20"
+    },
+    {
+        "title": "Optymalizacja obraz\u00f3w? - potrzebujesz tylko tych trzech narz\u0119dzi (film, 9 minut)",
+        "url": "https:\/\/www.youtube.com\/watch?v=akA1OiMk_q8",
+        "info": "INFO: Chcesz zmniejszy\u0107 rozmiar grafiki u\u017cywanej w Twojej aplikacji. Si\u0119gasz po specjaln\u0105 przeznaczon\u0105 do tego aplikacj\u0119... no w\u0142a\u015bnie - kt\u00f3r\u0105? Autorzy filmu wyja\u015bniaj\u0105, \u017ce wyb\u00f3r wcale nie jest taki prosty i dlatego sugeruj\u0105 trzy toole, kt\u00f3re zawsze warto mie\u0107 pod r\u0119k\u0105.",
+        "date": "2023-10-20"
+    },
+    {
+        "title": "Implementacja sieci neuronowej w czystym JavaScript",
+        "url": "https:\/\/dev.to\/grahamthedev\/a-noob-learns-ai-my-first-neural-networkin-vanilla-jswith-no-libraries-1f92",
+        "info": "INFO: Temat sztucznej inteligencji to ostatnio g\u0142\u00f3wnie wysokopoziomowe zagadnienia zwi\u0105zane z modelami j\u0119zykowymi, a gdzie si\u0119 podzia\u0142y stare, dobre sieci neuronowe? Autor tego artyku\u0142u pokazuje jak krok po kroku, bez \u017cadnych dodatkowych bibliotek zbudowa\u0107 tak\u0105 prost\u0105 sie\u0107, jak j\u0105 uczy\u0107 i jak z niej korzysta\u0107. Zaczyna si\u0119 na do\u015b\u0107 prostych przyk\u0142adach, ale im dalej zag\u0142\u0119bisz si\u0119 w tre\u015b\u0107, tym wi\u0119kszym zrozumieniem i skupieniem musisz si\u0119 wykaza\u0107. Nie jest to \u0142atwy temat.",
+        "date": "2023-10-20"
+    },
+    {
+        "title": "Wzorce projektowe u\u017cywane w JS - om\u00f3wienie i przyk\u0142ady",
+        "url": "https:\/\/blog.carlosrojas.dev\/quick-reference-guide-to-design-patterns-in-js-1ebeb1e1c605",
+        "info": "INFO: Ka\u017cdy ze wzorc\u00f3w zawiera kr\u00f3tkie om\u00f3wienie oraz przyk\u0142ad jego implementacji w kodzie. Bardzo skondensowana porcja wiedzy.",
+        "date": "2023-10-20"
+    },
+    {
+        "title": "Piksele na stronie i dost\u0119pno\u015bci - co to ma wsp\u00f3lnego?!",
+        "url": "https:\/\/www.joshwcomeau.com\/css\/surprising-truth-about-pixels-and-accessibility\/",
+        "info": "INFO: Piksele czy jednostki em\/rem? To pytanie cz\u0119sto nurtuje tw\u00f3rc\u00f3w stron internetowych. Ten artyku\u0142 pozwala na zrozumienie, jak ka\u017cda z tych jednostek wp\u0142ywa na dost\u0119pno\u015b\u0107 strony i kiedy kt\u00f3r\u0105 z nich stosowa\u0107.",
+        "date": "2023-10-20"
+    },
+    {
+        "title": "Jak GitHub przeszukuje wszystkie repozytoria z tak\u0105 szybko\u015bci\u0105?",
+        "url": "https:\/\/scaleyourapp.com\/system-design-github-code-search-engine\/",
+        "info": "INFO: Wyszukiwarka na GitHubie bior\u0105c pod uwag\u0119 rozmiar bazy, jak\u0105 przeszukuje, jest zaskakuj\u0105co szybka. Jak to osi\u0105gni\u0119to? Autor opracowania wyja\u015bnia, dlaczego \u017cadne z gotowych rozwi\u0105za\u0144 nie dawa\u0142o sobie rady z tym problemem i jak dzia\u0142a 'Project Blackbird', kt\u00f3rego u\u017cywa GitHub.",
+        "date": "2023-10-20"
+    },
+    {
+        "title": "Thumb Calendar - ciekawa koncepcja rocznego kalendarza kieszonkowego",
+        "url": "http:\/\/thumbcalendar.com\/",
+        "info": "INFO: Idea tego projektu to zmieszczenie ca\u0142ego, rocznego kalendarza na jednej kartce wielko\u015bci wizyt\u00f3wki. Mo\u017ce si\u0119 to wydawa\u0107 trudne, ale autorzy osi\u0105gn\u0119li to i to nawet bez u\u017cywania fonta 2pt ;) Projekt niestety umar\u0142 w 2022 roku, jednak idea jest na tyle prosta, \u017ce pasjonaci powinni bez problemu poci\u0105gn\u0105\u0107 go dalej lub samodzielnie wygenerowa\u0107 wersj\u0119 na nadchodz\u0105ce lata.",
+        "date": "2023-10-20"
+    },
+    {
+        "title": "Nieoficjalne API do DALL-E 3",
+        "url": "https:\/\/github.com\/Agora-X\/Dalle3",
+        "info": "INFO: Obecnie dost\u0119p do najnowszej wersji generatora grafiki DALL-E w wersji 3 jest mo\u017cliwy jedynie za po\u015brednictwem pluginu w webowej wersji interface GPT-4. Ta biblioteka rozwi\u0105zuje ten problem i udost\u0119pnia najnowszy silnik dla programist\u00f3w w ma\u0142o oficjalny spos\u00f3b. Ze wzgl\u0119du na to, \u017ce pod spodem wykorzystywane jest niepubliczne API, to rozwi\u0105zanie mo\u017ce za jaki\u015b czas przesta\u0107 dzia\u0142a\u0107.",
+        "date": "2023-10-20"
+    },
+    {
+        "title": "GitHub Copilot przynosi straty tw\u00f3rcom?",
+        "url": "https:\/\/datasciencelearningcenter.substack.com\/p\/why-microsofts-github-copilot-is",
+        "info": "INFO: Obecny abonament za us\u0142ug\u0119 ($100\/rok) wygl\u0105da na uczciwy, ale czy tw\u00f3rcy tego rozwi\u0105zania naprawd\u0119 na nim zarabiaj\u0105? Copilot sta\u0142 si\u0119 wa\u017cnym narz\u0119dziem w programistycznym \u015bwiecie, ale je\u015bli koszty jego utrzymania nie zostan\u0105 zredukowane, to mo\u017cemy mie\u0107 problem.",
+        "date": "2023-10-20"
+    },
+    {
+        "title": "Monolit Lambda (Lambdalith) do obs\u0142ugi API - czy to dobry pomys\u0142?",
+        "url": "https:\/\/rehanvdm.com\/blog\/should-you-use-a-lambda-monolith-lambdalith-for-the-api",
+        "info": "INFO: Czy monolit Lambda API jest lepszym rozwi\u0105zaniem w por\u00f3wnaniu do typowych funkcji Lambda przeznaczonych do jednego celu przy realizacji API? Autor pokazuje, \u017ce cz\u0119sto Lambdalith jest lepszym wyborem. Artyku\u0142 tak\u017ce podwa\u017ca niekt\u00f3re 'najlepsze praktyki'.",
+        "date": "2023-10-20"
+    },
+    {
+        "title": "Hiperpersonalizacja AI, czyli GPT-4 dopasowane do Ciebie (film, 2h)",
+        "url": "https:\/\/www.youtube.com\/watch?v=fgGrGF18ah8",
+        "info": "INFO: Czym si\u0119 r\u00f3\u017cni personalizacja od hiperpersonalizacji? Dlaczego kto\u015b mia\u0142by chcie\u0107 personalizowa\u0107 modele j\u0119zykowe? Jak to wygl\u0105da w praktyce - wiele pyta\u0144, ale na wszystkie znajdziesz odpowied\u017a w filmie. Jest to nagranie ze \u015brodowego webinara.",
+        "date": "2023-10-20"
+    },
+    {
+        "title": "YouTube - stabilna g\u0142o\u015bno\u015b\u0107, wyszukiwanie piosenek przez nucenie i kilka innych nowo\u015bci",
+        "url": "https:\/\/9to5google.com\/2023\/10\/17\/youtube-you-tab-stable-volume\/",
+        "info": "INFO: YouTube zapowiada wprowadzenie ponad trzydziestu nowych funkcji i aktualizacji designu. Artyku\u0142 omawia kilka najciekawszych zdaniem autora zmian, kt\u00f3re nadchodz\u0105.",
+        "date": "2023-10-20"
+    },
+    {
+        "title": "Prompty kryj\u0105ce si\u0119 za narz\u0119dziami od OpenAI",
+        "url": "https:\/\/github.com\/spdustin\/ChatGPT-AutoExpert\/blob\/main\/System%20Prompts.md",
+        "info": "INFO: To, \u017ce narz\u0119dzia typu Dall-E, wyszukiwanie z Bingiem, czy mobilne aplikacje od OpenAI korzystaj\u0105 pod spodem z ChatGPT, to rzecz oczywista, ale jakimi zapytaniami nap\u0119dzane s\u0105 te narz\u0119dzia? Kto\u015b postanowi\u0142 wydoby\u0107 te prompty i zebra\u0107 je w jednym miejscu. Przydatne zw\u0142aszcza dla programist\u00f3w, kt\u00f3rzy chc\u0105 samodzielnie wykona\u0107 podobne aplikacje z u\u017cyciem API.",
+        "date": "2023-10-20"
+    },
+    {
+        "title": "Luki w systemach maj\u0105 cz\u0119sto chwytliw\u0105 nazw\u0119 i logo - dawniej tak nie by\u0142o?",
+        "url": "https:\/\/shellsharks.com\/designer-vulnerabilities",
+        "info": "INFO: Prawdopodobnie kojarzysz podatno\u015bci typu Heartbleed, Shellshock, czy ShadowBunny. Nawet je\u015bli nie pamietasz czego dotyczy\u0142y, to gdzie\u015b w g\u0142owie zosta\u0142y Ci ich nazwy. Tylko dlaczego te podatno\u015bci dostaj\u0105 takie 'fancy' nazwy, a nie zwyk\u0142e, opisowe? To pewnie jaka\u015b nowa moda... na tej stronie znajdziesz spis g\u0142o\u015bnych luk i szybko zauwa\u017cysz, \u017ce tradycja nadawania takich nazw, a nawet wymy\u015blania loga si\u0119ga... lat 90.",
+        "date": "2023-10-20"
+    },
+    {
+        "title": "Jak sprytniej tworzy\u0107 skrypty bashowe zwracaj\u0105ce JSON?",
+        "url": "https:\/\/j3s.sh\/thought\/shell-tip-print-json-with-printf.html",
+        "info": "INFO: Zwracanie obiektu JSON to prosta sprawa. Jedno echo i gotowe. Tylko jest jeden, ma\u0142y problem... cudzys\u0142owy i apostrofy. Gdy zapragniesz je ogarn\u0105\u0107, oka\u017ce si\u0119, \u017ce praca z JSON-em w terminalu to m\u0119czarnia. W tym wpisie autor pokazuje, jak to zrobi\u0107 sprytniej, zamieniaj\u0105c zwyk\u0142e echo na co\u015b wygodniejszego, a jednocze\u015bnie nie si\u0119gaj\u0105c przy tym po aplikacje typu JQ.",
+        "date": "2023-10-20"
+    },
+    {
+        "title": "Zagnie\u017cd\u017cenia w CSS - kiedy i czy warto je stosowa\u0107?",
+        "url": "https:\/\/cloudfour.com\/thinks\/when-to-nest-css\/",
+        "info": "INFO: Zagnie\u017cd\u017cenia (nesting) w CSS s\u0105 ju\u017c od pewnego czasu obs\u0142ugiwane przez wi\u0119kszo\u015b\u0107 przegl\u0105darek. Czy warto jednak wprowadza\u0107 je w swoich aplikacjach? Jaka jest r\u00f3\u017cnica mi\u0119dzy zagnie\u017cd\u017caniem w CSS a tymi znanymi np. z SASS i kiedy to drugie mo\u017ce okaza\u0107 si\u0119 bardziej praktyczne? Z artyku\u0142u dowiesz si\u0119, jak poprawi\u0107 czytelno\u015b\u0107 swoich CSS-\u00f3w i jak unika\u0107 cz\u0119sto zbytecznego zwi\u0119kszania wa\u017cno\u015bci selektor\u00f3w. Dobra lektura dla frontendowc\u00f3w.",
+        "date": "2023-10-20"
+    },
+    {
+        "title": "Zbudujmy edytor PixelArt dla wielu u\u017cytkownik\u00f3w - tutorial i om\u00f3wienie",
+        "url": "https:\/\/jakelazaroff.com\/words\/building-a-collaborative-pixel-art-editor-with-crdts\/",
+        "info": "INFO: Autor pokazuje krok po kroku jak zbudowa\u0107 system podobny do Google Docs, gdzie jednocze\u015bnie mo\u017ce pracowa\u0107 wielu u\u017cytkownik\u00f3w, widz\u0105c na \u017cywo (lub z lekkim op\u00f3\u017anieniem) swoje zmiany. Jako przyk\u0142ad u\u017cyto prostego edytora PixelArt. Artyku\u0142 ma kilka cz\u0119\u015bci. Linkuj\u0119 do pierwszej praktycznej, ale je\u015bli nie wiesz, czym s\u0105 te ca\u0142e 'CRDT' omawiane przez autora, to w pierwszym akapicie znajdziesz linka do artyku\u0142u wprowadzaj\u0105cego w teori\u0119.",
+        "date": "2023-10-20"
+    },
+    {
+        "title": "Ciekawe elementy CSS-a z wersji webowej Photoshopa",
+        "url": "https:\/\/ishadeed.com\/article\/photoshop-web-css\/",
+        "info": "INFO: Autor znany z analiz du\u017cych aplikacji webowych ,tym razem wzi\u0105\u0142 na tapet najnowszy produkt od Adobe, czyli webowego Photoshopa. Jakie ciekawe smaczki CSS-owe kryj\u0105 si\u0119 w jego kodzie? Zobacz, jak wykorzystano tam Flexboxa, CSS Grid i wiele innych technik.",
+        "date": "2023-10-20"
+    },
+    {
+        "title": "Endoflife - informacje o datach ko\u0144ca wsparcia dla produkt\u00f3w",
+        "url": "https:\/\/endoflife.date\/",
+        "info": "INFO: Serwis gromadzi informacje o produktach fizycznych (np. smartfony) i aplikacjach, podaj\u0105c, kiedy zako\u0144czono ich produkcj\u0119\/dystrybucj\u0119 i do kiedy planowane jest wsparcie techniczne dla nich.",
+        "date": "2023-10-20"
+    },
+    {
+        "title": "FCron - dlaczego mia\u0142by\u015b zmienia\u0107 crona w systemie?!",
+        "url": "https:\/\/dbohdan.com\/fcron",
+        "info": "INFO: Istnieje wiele implementacji cron\u00f3w na Linuksa\/Uniksa. Dlaczego mia\u0142by\u015b zrezygnowa\u0107 z najpopularniejszej implementacji i przej\u015b\u0107 na jakiego\u015b \"fcrona\"? Gdy przeczytasz jakie limity narzucaj\u0105 na Ciebie inne implementacje i jakie mo\u017cliwo\u015bci daje Ci fcron, to zrozumiesz, \u017ce warto w niekt\u00f3rych przypadkach pomy\u015ble\u0107 o zmianie.",
+        "date": "2023-10-20"
+    },
+    {
+        "title": "Komunikacja HTTP w JavaScript",
+        "url": "https:\/\/devszczepaniak.pl\/komunikacja-http-w-javascript\/",
+        "info": "INFO: Autor przedstawia r\u00f3\u017cne metody na komunikacj\u0119 po protokole HTTP, kt\u00f3re mo\u017cesz wykorzysta\u0107, a tak\u017ce daje praktyczne przyk\u0142ady ich u\u017cycia. W tek\u015bcie om\u00f3wiono XMLHttpRequest, Fetch API, Axios oraz Undici.",
+        "date": "2023-10-20"
+    },
+    {
+        "title": "Sessionic - rozszerzenie do przegl\u0105darki do zapisywania, zarz\u0105dzania i przywracania kart i sesji",
+        "url": "https:\/\/github.com\/navorite\/sessionic",
+        "info": "INFO: Masz otwarte dziesi\u0105tki tab\u00f3w powi\u0105zanych z prac\u0105, ale chcesz otworzy\u0107 kolejne dziesi\u0105tki tab\u00f3w zwi\u0105zanych z np. pisaniem Twojej pracy magisterskiej. Mo\u017cesz oczywi\u015bcie uruchomi\u0107 kolejne okno przegl\u0105darki, ale to nie jest rozwi\u0105zanie, kt\u00f3re spodoba si\u0119 Twojej pami\u0119ci RAM ;) Z pomoc\u0105 przyjdzie Sessionic, kt\u00f3ry zachowa wszystkie taby w swoim schowku i przywr\u00f3ci je, gdy b\u0119d\u0105 Ci potrzebne. Rozszerzenie dzia\u0142a na przegl\u0105darkach Chrome, Edge i Firefox.",
+        "date": "2023-10-20"
+    },
+    {
+        "title": "SSH-audit - narz\u0119dzie do testowania bezpiecze\u0144stwa serwer\u00f3w SSH",
+        "url": "https:\/\/github.com\/jtesta\/ssh-audit",
+        "info": "INFO: Wielu admin\u00f3w prawdopodobnie zna ju\u017c ssh-audit, aleee... to nie jest ten soft. Tamta aplikacja od lat nie jest ju\u017c rozwijana, a to do czego linkuj\u0119, to alternatywny fork, kt\u00f3ry jest stale rozwijany i rozbudowywany o nowe funkcje. Mo\u017cesz dzi\u0119ki tej aplikacji sprawdzi\u0107, czy Tw\u00f3j serwer ssh spe\u0142nia wszelkie wytyczne dotycz\u0105ce bezpiecze\u0144stwa.",
+        "date": "2023-10-20"
+    },
+    {
+        "title": "Czy Twitter (X) b\u0119dzie p\u0142atny?",
+        "url": "https:\/\/variety.com\/2023\/digital\/news\/x-twitter-charge-users-one-dollar-per-year-test-1235760066\/",
+        "info": "INFO: Elon Musk zdecydowa\u0142 si\u0119 na niecodzienny krok - postanowi\u0142 zwalcza\u0107 boty na swojej platformie z wykorzystaniem p\u0142atnych, ale skrajnie tanich kont. Czy to powstrzyma zalew bot\u00f3w? Testy funkcji \"Not A Bot\" rozpocz\u0119\u0142y si\u0119 na Filipinach i Nowej Zelandii. U\u017cytkownicy, kt\u00f3rzy zdecyduj\u0105 si\u0119 na p\u0142atny abonament, b\u0119d\u0105 mogli publikowa\u0107 tre\u015bci, lajkowa\u0107 posty, odpowiada\u0107 na nie i dodawa\u0107 do zak\u0142adek. Pozostali b\u0119d\u0105 mogli jedynie czyta\u0107 posty i obserwowa\u0107 konta. Czy to jest dobry spos\u00f3b na walk\u0119 z botami?",
+        "date": "2023-10-20"
+    },
+    {
+        "title": "Jak w Nowym Jorku dostarczano poczt\u0119... rurami",
+        "url": "https:\/\/untappedcities.com\/2023\/10\/17\/pneumatic-tube-mail-new-york-city\/",
+        "info": "INFO: Ciekawy system pneumatycznego dostarczania poczty z szybko\u015bci\u0105 nawet 50km\/h. Jak to dzia\u0142a\u0142o? O tym wi\u0119cej w artykule.",
+        "date": "2023-10-20"
+    },
+    {
+        "title": "Piped - alternatywny, samohostowalny frontend dla YouTube",
+        "url": "https:\/\/github.com\/TeamPiped\/Piped",
+        "info": "INFO: Jest to aplikacja, kt\u00f3r\u0105 mo\u017cesz uruchomi\u0107 na swoim serwerze lub domowym komputerze, a zapewni Ci ona dost\u0119p do film\u00f3w z YT w wersji bez \u015bledz\u0105cych skrypt\u00f3w, bez tony polecanych film\u00f3w oraz... bez reklam. Mo\u017cesz przetestowa\u0107 dzia\u0142anie tej platformy na podlinkowanej, oficjalnej instancji postawionej przez tw\u00f3rc\u00f3w rozwi\u0105zania.",
+        "date": "2023-10-20"
+    },
+    {
+        "title": "System Design - materia\u0142y do nauki",
+        "url": "https:\/\/uw7.org\/un_d03fe0478109a\/",
+        "info": "INFO: Skomplikowane zagadnienia zwi\u0105zane z projektowaniem system\u00f3w IT zosta\u0142y zaprezentowane w postaci prostych do zrozumienia schemat\u00f3w i opisane prostymi s\u0142owami. Idealne materia\u0142y do nauki przed rozmow\u0105 o prac\u0119 z tego zakresu.",
+        "date": "2023-10-20"
+    },
+    {
+        "title": "Znajd\u017a \u017ar\u00f3d\u0142owy adres IP serwera ukrytego za CloudFlare",
+        "url": "https:\/\/uw7.org\/un_16d5471bcd815\/",
+        "info": "INFO: To narz\u0119dzie stara si\u0119 z u\u017cyciem Censysa wy\u015bledzi\u0107 serwery ukryte za CloudFlare. Pozwala to np. pentesterom na obej\u015bcie filtr\u00f3w bezpiecze\u0144stwa dodawanych przez CF.",
+        "date": "2023-10-20"
+    },
+    {
+        "title": "Jak policzy\u0107 7000 \u015brubek? - zbudujmy maszyn\u0119! (film, 12 min)",
+        "url": "https:\/\/www.youtube.com\/watch?v=dth0Hw7iwH4",
+        "info": "INFO: Je\u015bli jeste\u015b pasjonatem elektroniki i projektowania przydatnych uk\u0142ad\u00f3w, to filmik z opisu budowy i dzia\u0142ania zliczarki do \u015brubek z pewno\u015bci\u0105 Ci si\u0119 spodoba. Ciekawe podej\u015bcie. Pokazane s\u0105 napotkane problemy techniczne, kalibracja i wykorzystanie AI do stworzenia cz\u0119\u015bci oprogramowania steruj\u0105cego uk\u0142adem. Na kanale znajdziesz sporo innych, podobnych tematycznie film\u00f3w. Daj autorowi suba :)",
+        "date": "2023-10-13"
+    },
+    {
+        "title": "Jak pokona\u0142em strach przed edytorem VIM - historia prawdziwa",
+        "url": "https:\/\/betterprogramming.pub\/overcoming-vim-phobia-my-journey-of-redemption-d1114e6922ab",
+        "info": "INFO: Historia programisty, kt\u00f3ry przeszed\u0142 drog\u0119 od strachu przed VIM-em, przez liczne edytory i IDE, a\u017c w ko\u0144cu... zacz\u0105\u0142 pracowa\u0107 w VIM. Warto rzuci\u0107 okiem, co sprawia\u0142o, \u017ce decydowa\u0142 si\u0119 na zmiany i co sk\u0142oni\u0142o go do takiego, a nie innego wyboru.",
+        "date": "2023-10-13"
+    },
+    {
+        "title": "Koszty chmury, kt\u00f3re ka\u017cdy programista powinien zna\u0107",
+        "url": "https:\/\/www.vantage.sh\/blog\/cloud-costs-every-programmer-should-know",
+        "info": "INFO: Chcesz wystartowa\u0107 z w\u0142asnym projektem i postanawiasz od razu zacz\u0105\u0107 budow\u0119 infrastruktury w chmurze. Jest tanio, fajnie i szybko... tak d\u0142ugo, jak projekt jest ma\u0142y i hobbystyczny. P\u00f3\u017aniej koszty zaczynaj\u0105 rosn\u0105\u0107. Jak oszacowa\u0107, ile b\u0119dzie kosztowa\u0107 Ci\u0119 utrzymanie projektu przy jego mocnym skalowaniu? Ta kr\u00f3tka rozpiska pozwoli Ci oszacowa\u0107 koszty metod\u0105 'na oko' - przynajmniej poznasz rz\u0105d wielko\u015bci wydatk\u00f3w.",
+        "date": "2023-10-13"
+    },
+    {
+        "title": "Mapa tokijskiego systemu transportu publicznego w 3D",
+        "url": "https:\/\/minitokyo3d.com",
+        "info": "INFO: Mapa pokazuje ruch pojazd\u00f3w komunikacji miejskiej w czasie rzeczywistym. Mo\u017cna tak\u017ce podgl\u0105da\u0107 niekt\u00f3re ze stacji przez kamery transmituj\u0105ce obraz na \u017cywo. Mnie zaciekawi\u0142y najbardziej op\u00f3\u017anienia w komunikacji - w Polsce 60 sekund sp\u00f3\u017anienia, to nie sp\u00f3\u017anienie :D",
+        "date": "2023-10-13"
+    },
+    {
+        "title": "Dark Web - jak z niego korzysta\u0107 i jak si\u0119 tam dosta\u0107?",
+        "url": "https:\/\/osintteam.blog\/dark-web-how-to-get-started-658409184c06",
+        "info": "INFO: Dlaczego kto\u015b z dobrymi zamiarami mia\u0142by interesowa\u0107 si\u0119 Dark Webem? Poniewa\u017c jest to miejsce, w kt\u00f3rym dziej\u0105 si\u0119 nie tylko te 'z\u0142e rzeczy', ale tak\u017ce tam znajdziesz informacje, kt\u00f3re nie przesz\u0142yby w niekt\u00f3rych krajach przez cenzur\u0119 oraz te, kt\u00f3rych autorzy po publikacji boj\u0105 si\u0119 o swoje bezpiecze\u0144stwo. Artyku\u0142 omawia jak rozpocz\u0105\u0107 swoj\u0105 przygod\u0119 z DW i jak si\u0119 porusza\u0107 po tym medium.",
+        "date": "2023-10-13"
+    },
+    {
+        "title": "Jak \u015bledz\u0105 nas strony internetowe partii politycznych? [Wybory 2023]",
+        "url": "https:\/\/www.internet-czas-dzialac.pl\/wybory-2023-jak-partie-polityczne-szanuja-twoja-prywatnosc-na-swoich-stronach-internetowych\/",
+        "info": "INFO: Ciekawa analiza tego, jak od strony technicznej - pod wzgl\u0119dem prywatno\u015bci i zgodno\u015bci z przepisami prezentuj\u0105 si\u0119 strony WWW partii politycznych. Kto zbiera najwi\u0119cej informacji? kto si\u0119 nimi dzieli, a kto ma \u017ale napisan\u0105 polityk\u0119 prywatno\u015bci?",
+        "date": "2023-10-13"
+    },
+    {
+        "title": "Kolekcja najnowszych film\u00f3w dokumentalnych",
+        "url": "https:\/\/rocumentaries.com\/",
+        "info": "INFO: To portal agreguj\u0105cy interesuj\u0105ce filmy dokumentalne zgromadzone na YouTube, Vimeo i na licznych platformach VOD. Mo\u017cesz zapisa\u0107 si\u0119 na ich newsletter, aby dostawa\u0107 regularnie na skrzynk\u0119 now\u0105 porcj\u0119 film\u00f3w.",
+        "date": "2023-10-13"
+    },
+    {
+        "title": "Upierdliwe przepisy RODO? - 3 popularne mity",
+        "url": "https:\/\/jozwiak.top\/blog\/3-popularne-mity-o-rodo",
+        "info": "INFO: Wyja\u015bnienie RODO absurd\u00f3w, takich jak natr\u0119tne popupy i pola checkbox - wbrew pozorom ich stosowanie NIE wynika z samego RODO, a regulacje sprzyjaj\u0105 u\u017cytkownikom bardziej ni\u017c mo\u017ce si\u0119 wydawa\u0107.",
+        "date": "2023-10-13"
+    },
+    {
+        "title": "Flappy Dird zaimplementowany w Finderze z MacOS",
+        "url": "https:\/\/eieio.games\/nonsense\/game-11-flappy-bird-finder\/",
+        "info": "INFO: Komu\u015b zdecydowanie si\u0119 nudzi\u0142o i wpad\u0142 na pomys\u0142, jak za pomoc\u0105 zmiany nazewnictwa katalog\u00f3w mo\u017cna zrealizowa\u0107 animowan\u0105 gr\u0119 w menad\u017cerze plik\u00f3w. Wygl\u0105da zabawnie (zobacz animacj\u0119), a ca\u0142y proces opisany jest w podlinkowanym artykule. Bior\u0105c pod uwag\u0119, \u017ce zasada dzia\u0142ania (pomijaj\u0105c AppleScript) jest do\u015b\u0107 prosta, prawdopodobnie da\u0142oby si\u0119 realizowa\u0107 podobny efekt tak\u017ce na innych systemach operacyjnych.",
+        "date": "2023-10-13"
+    },
+    {
+        "title": "Czy kto\u015b kupi\u0142 liter\u00f3wk\u0119 Twojej domeny?",
+        "url": "https:\/\/haveibeensquatted.com\/",
+        "info": "INFO: Narz\u0119dzie do wykrywania typosquattingu, czyli ataku polegaj\u0105cego na kupnie liter\u00f3wek domeny, kt\u00f3r\u0105 chce si\u0119 zaatakowa\u0107. Jest to metoda bardzo cz\u0119sto u\u017cywana do phishingu. Zdecydowanie warto sprawdzi\u0107, czy kto\u015b zarejestrowa\u0142 Twoj\u0105 domen\u0119 z innym TLD lub z celowo zrobion\u0105 liter\u00f3wk\u0105.",
+        "date": "2023-10-13"
+    },
+    {
+        "title": "Prawdopodobnie nie potrzebujesz w\u0142asnego LLM-a",
+        "url": "https:\/\/betterprogramming.pub\/you-dont-need-hosted-llms-do-you-1160b2520526",
+        "info": "INFO: Modele j\u0119zykowe zyskuj\u0105 na popularno\u015bci, a najprostszy spos\u00f3b wej\u015bcia w ich \u015bwiat to wykorzystanie API od OpenAI. Wiele firm decyduje si\u0119 jednak na samodzielne hostowanie modeli i ma ku temu wiele argument\u00f3w. Czy jednak Ty potrzebujesz modelu w wersji self-hosted?",
+        "date": "2023-10-13"
+    },
+    {
+        "title": "Jak upro\u015bci\u0107 trudne rzeczy (film, 43 minuty)",
+        "url": "https:\/\/jvns.ca\/blog\/2023\/10\/06\/new-talk--making-hard-things-easy\/",
+        "info": "INFO: Czy DNS, bash, HTTP czy SQL wydaj\u0105 Ci si\u0119 skomplikowane? Julia Evans (do\u015bwiadczona programistka) dzieli si\u0119 swoimi przemy\u015bleniami na temat tego, dlaczego niekt\u00f3re technologie wydaj\u0105 si\u0119 trudne do nauczenia oraz jak mo\u017cemy u\u0142atwi\u0107 sobie nawigacj\u0119 po nich. Poznaj jej pomys\u0142y na to, jak mo\u017cemy u\u0142atwi\u0107 sobie nawzajem prac\u0119 z tymi technologiami.",
+        "date": "2023-10-13"
+    },
+    {
+        "title": "Przejd\u017a na cyfrowe zarz\u0105dzanie dokumentami z Paperless-ngx",
+        "url": "https:\/\/nerdyarticles.com\/a-clutter-free-life-with-paperless-ngx\/",
+        "info": "INFO: Paperless-ngx to narz\u0119dzie, kt\u00f3re mo\u017ce upro\u015bci\u0107 Twoje \u017cycie. W artykule autor szczeg\u00f3\u0142owo opisuje, jak skonfigurowa\u0107 i wykorzysta\u0107 t\u0119 us\u0142ug\u0119 do efektywnej organizacji plik\u00f3w\/dokument\u00f3w. Dowiedz si\u0119, jak za pomoc\u0105 jednego klikni\u0119cia mo\u017cesz przekszta\u0142ci\u0107 g\u0105szcz folder\u00f3w w uporz\u0105dkowan\u0105, cyfrow\u0105 baz\u0119 dokument\u00f3w.",
+        "date": "2023-10-13"
+    },
+    {
+        "title": "Akt o wolno\u015bci medi\u00f3w - zaostrzenie przepis\u00f3w chroni\u0105cych dziennikarzy",
+        "url": "https:\/\/www.europarl.europa.eu\/news\/pl\/press-room\/20230929IPR06111\/akt-o-wolnosci-mediow-parlament-zaostrza-przepisy-chroniace-dziennikarzy",
+        "info": "INFO: W reakcji na rosn\u0105ce zagro\u017cenie wolno\u015bci medi\u00f3w i ich rentowno\u015bci pos\u0142owie z Parlamentu Europejskiego przyj\u0119li stanowisko w sprawie przepis\u00f3w, kt\u00f3re maj\u0105 poprawi\u0107 przejrzysto\u015b\u0107 i niezale\u017cno\u015b\u0107 medi\u00f3w unijnych. Szczeg\u00f3lnie interesuj\u0105cy jest fragment o blokadzie mo\u017cliwo\u015bci arbitralnego usuwania wpis\u00f3w medialnych przez du\u017ce platformy spo\u0142eczno\u015bciowe.",
+        "date": "2023-10-13"
+    },
+    {
+        "title": "Pair Programming - najlepsze praktyki i narz\u0119dzia",
+        "url": "https:\/\/dev.to\/documatic\/pair-programming-best-practices-and-tools-154j",
+        "info": "INFO: Autor rozwiewa mity dotycz\u0105ce tej techniki programowania. Omawia jej zalety i proponuje przydatne narz\u0119dzia. Dowiesz si\u0119, jak efektywnie wdro\u017cy\u0107 pair programming w swoim zespole i jakie korzy\u015bci przyniesie Ci to rozwi\u0105zanie.",
+        "date": "2023-10-13"
+    },
+    {
+        "title": "Jak testowane s\u0105 modele AI i czy to ma sens?!",
+        "url": "https:\/\/www.technologyreview.com\/2023\/08\/30\/1078670\/large-language-models-arent-people-lets-stop-testing-them-like-they-were\/",
+        "info": "INFO: Skuteczno\u015b\u0107 modeli do\u015b\u0107 cz\u0119sto bada si\u0119 testami... przeznaczonymi dla ludzi. Mimo \u017ce modele te zaliczaj\u0105 egzaminy akademickie, nie \u015bwiadczy to o ich poziomie zrozumienia czegokolwiek. Mo\u017ce warto zacz\u0105\u0107 testowa\u0107 skuteczno\u015b\u0107 modeli w inny spos\u00f3b - tylko jak?",
+        "date": "2023-10-13"
+    },
+    {
+        "title": "Testy bezpiecze\u0144stwa aplikacji na Apple Watch - jak si\u0119 do tego zabra\u0107?",
+        "url": "https:\/\/www.pentestpartners.com\/security-blog\/the-reality-of-apple-watch-pen-testing\/",
+        "info": "INFO: Przygotowanie \u015brodowiska do testowania aplikacji webowych i desktopowych to prosta sprawa. Przy testach aplikacji mobilnych trzeba troch\u0119 wi\u0119cej si\u0119 napoci\u0107, ale jak dobra\u0107 si\u0119 do aplikacji dzia\u0142aj\u0105cych na smart zegarku od Apple?!",
+        "date": "2023-10-13"
+    },
+    {
+        "title": "Podr\u0119cznik do Git Rebase - wszystko, co musisz wiedzie\u0107",
+        "url": "https:\/\/www.freecodecamp.org\/news\/git-rebase-handbook\/",
+        "info": "INFO: Chcesz opanowa\u0107 jedno z najpot\u0119\u017cniejszych narz\u0119dzi dla deweloper\u00f3w - git rebase, ale wydaje si\u0119 ono skomplikowane i niezrozumia\u0142e? Ten artyku\u0142 dok\u0142adnie wyja\u015bnia co robi git rebase, dlaczego r\u00f3\u017cni si\u0119 od merge i jak z pe\u0142nym zaufaniem korzysta\u0107 z rebasingu.",
+        "date": "2023-10-13"
+    },
+    {
+        "title": "W czym tworzy\u0107 wewn\u0119trzn\u0105 dokumentacj\u0119 projekt\u00f3w? (8 narz\u0119dzi)",
+        "url": "https:\/\/javascript.plainenglish.io\/8-best-tools-for-creating-internal-documentation-c834cefdc164",
+        "info": "INFO: Przegl\u0105d ciekawych rozwi\u0105za\u0144 pozwalaj\u0105cych Tobie i Twojemu teamowi na stworzenie wygodnej w obs\u0142udze i u\u017cytecznej dokumentacji do projekt\u00f3w. Jest szansa, \u017ce niekt\u00f3rych z tych aplikacji jeszcze nie znasz.",
+        "date": "2023-10-13"
+    },
+    {
+        "title": "Jak sprawdzi\u0107 otwarto\u015b\u0107 portu TCP przy u\u017cyciu wbudowanych narz\u0119dzi?",
+        "url": "https:\/\/www.carehart.org\/blog\/2023\/10\/1\/testing_port_reachability_with_other_than_telnet",
+        "info": "INFO: To artyku\u0142 typu \"sztuczki dla admina\". Niekiedy zdarza si\u0119, \u017ce Twoje ulubione narz\u0119dzie do sprawdzania, czy aplikacja s\u0142ucha na podanym porcie, jest niedost\u0119pne. Czym wi\u0119c je zast\u0105pi\u0107? Artyku\u0142 podaje przyk\u0142ady wykorzystania standardowych, cz\u0119sto wbudowanych w system (Linux) aplikacji, kt\u00f3re pomog\u0105 CI w takiej sytuacji.",
+        "date": "2023-10-13"
+    },
+    {
+        "title": "Snippety kodu podatne na atak",
+        "url": "https:\/\/github.com\/yeswehack\/vulnerable-code-snippets",
+        "info": "INFO: Wybierz rodzaj ataku (np. XSS, CSRF, DOS itp.) i zobacz fragment kodu \u017ar\u00f3d\u0142owego, kt\u00f3ry pokazuje, jak wygl\u0105da niebezpieczna implementacja pewnej funkcji, kt\u00f3ra ko\u0144czy si\u0119 wybran\u0105 podatno\u015bci\u0105. Dobre repozytorium dla pentester\u00f3w i programist\u00f3w chc\u0105cych rozszerzy\u0107 swoj\u0105 wiedz\u0119 z tematu web security.",
+        "date": "2023-10-13"
+    },
+    {
+        "title": "Jak zamieni\u0107 aparat analogowy w cyfrowy?",
+        "url": "https:\/\/petapixel.com\/2023\/10\/06\/a-20mp-sensor-in-a-film-canister-reinvigorates-vintage-analog-cameras\/",
+        "info": "INFO: Ciekawe urz\u0105dzenie. Pomi\u0144my milczeniem pow\u00f3d ch\u0119ci takiej zamiany, ale trzeba przyzna\u0107, \u017ce rozwi\u0105zanie jest pomys\u0142owe. Z klasycznego analoga powstaje nam cyfr\u00f3wka z sensorem 20MP.",
+        "date": "2023-10-13"
+    },
+    {
+        "title": "Jak namierzy\u0107 zasoby blokuj\u0105ce\/spowalniaj\u0105ce renderowanie strony?",
+        "url": "https:\/\/blog.sentry.io\/how-to-id-fix-render-blocking-resources\/",
+        "info": "INFO: Zasoby blokuj\u0105ce renderowanie to pliki JavaScript i CSS, kt\u00f3re uniemo\u017cliwiaj\u0105 \u0142adowanie aplikacji a\u017c do ich pobrania. Jak zidentyfikowa\u0107 te zasoby i jak je naprawi\u0107? Tego dowiesz si\u0119 z artyku\u0142u.",
+        "date": "2023-10-13"
+    },
+    {
+        "title": "Lista 10 rzeczy, kt\u00f3rych lepiej NIE robi\u0107 na coding interview",
+        "url": "https:\/\/levelup.gitconnected.com\/dont-do-these-10-thing-if-you-want-to-pass-your-coding-interview-351757019a8a",
+        "info": "INFO: Szukasz nowej pracy jako programista. Rozmowa wst\u0119pna ju\u017c za Tob\u0105, pytania techniczne zaliczone na medal, to czas sprawdzi\u0107 Twoje umiej\u0119tno\u015bci pisania kodu. Oto gar\u015b\u0107 porad, jak dobrze wypa\u015b\u0107 na takiej rozmowie, bo nie tylko o napisanie dzia\u0142aj\u0105cego kodu tam chodzi.",
+        "date": "2023-10-13"
+    },
+    {
+        "title": "Jak zabezpieczy\u0107 aplikacj\u0119 NodeJS na produkcji?",
+        "url": "https:\/\/semaphoreci.com\/blog\/securing-nodejs",
+        "info": "INFO: Artyku\u0142 prezentuje 15 sprawdzonych praktyk zabezpieczania architektury aplikacji Node.js na produkcji. Zaimplementuj je, aby uczyni\u0107 sw\u00f3j back-end bezpieczniejszym.",
+        "date": "2023-10-13"
+    },
+    {
+        "title": "Przyspieszanie ekosystemu JavaScript - problem 'barrel files'",
+        "url": "https:\/\/marvinh.dev\/blog\/speeding-up-javascript-ecosystem-part-7\/",
+        "info": "INFO: Poznaj histori\u0119 'barrel files' - plik\u00f3w, kt\u00f3re tylko eksportuj\u0105 inne pliki, a same nie zawieraj\u0105 \u017cadnego kodu. Dowiedz si\u0119, jakie maj\u0105 one wp\u0142yw na wydajno\u015b\u0107 Twojego kodu, zw\u0142aszcza w du\u017cych projektach, i jak mo\u017cemy z tym problemem walczy\u0107.",
+        "date": "2023-10-13"
+    },
+    {
+        "title": "Kolekcja narz\u0119dzi do symulacji\/emulacji sieci (25 sztuk)",
+        "url": "https:\/\/www.brianlinkletter.com\/2023\/02\/network-emulators-and-network-simulators-2023\/",
+        "info": "INFO: Do czego mog\u0105 przyda\u0107 Ci si\u0119 takie aplikacje? Do nauki konfiguracji sieci, firewalli, do nauki pods\u0142uchiwania ruchu sieciowego, do konfiguracji routingu i do wszystkiego tego, co zwi\u0105zane jest z g\u0142\u0119bszym poznaniem zasad dzia\u0142ania sieci.",
+        "date": "2023-10-13"
+    },
+    {
+        "title": "GitLab wprowadza Code Suggestions - konkurencj\u0119 dla Copilota",
+        "url": "https:\/\/about.gitlab.com\/solutions\/code-suggestions\/",
+        "info": "INFO: Prawdopodobnie wiesz czym jest pomagaj\u0105cy tworzy\u0107 aplikacje Copilot od Githuba. Code Suggestions, to bardzo podobne rozwi\u0105zanie, ale dostarczone przez GitLaba. Jeszcze nie wiadomo, ile b\u0119dzie kosztowa\u0107, ale w fazie beta mo\u017cesz testowa\u0107 je za darmo. Dzia\u0142a z wi\u0119kszo\u015bci\u0105 popularnych IDE.",
+        "date": "2023-10-13"
+    },
+    {
+        "title": "Dlaczego Linux zjad\u0142 ca\u0142y m\u00f3j RAM?!",
+        "url": "https:\/\/www.linuxatemyram.com\/",
+        "info": "INFO: Ten link mo\u017cesz podsy\u0142a\u0107 osobom, kt\u00f3re s\u0105 przera\u017cone, gdy polecenie 'free' na Linuksie zwraca im prawie ca\u0142\u0105 zaj\u0119t\u0105 pami\u0119\u0107 operacyjn\u0105. Tak, na Linuksie to zupe\u0142nie normalne, a strona t\u0142umaczy, jak to dok\u0142adnie dzia\u0142a i dlaczego nie warto si\u0119 tym przejmowa\u0107.",
+        "date": "2023-10-13"
+    },
+    {
+        "title": "iPhone 15 Pro implementuje nagrywanie film\u00f3w w systemie LOG",
+        "url": "https:\/\/prolost.com\/blog\/applelog",
+        "info": "INFO: To ogromna zmiana dla filmowc\u00f3w amator\u00f3w, ale ju\u017c teraz pojawia si\u0119 wiele nieporozumie\u0144. Dowiedz si\u0119, czym jest log, dlaczego jest wa\u017cny dla filmowc\u00f3w i jak mo\u017ce zmieni\u0107 spos\u00f3b, w jaki u\u017cywasz swojego iPhone'a do tworzenia film\u00f3w. W artykule znajdziesz tak\u017ce kilka darmowych LUT\u00f3w.",
+        "date": "2023-10-13"
+    },
+    {
+        "title": "Nadchodzi nowa, banalna metoda implementacji dark mode w CSS?",
+        "url": "https:\/\/www.bram.us\/2023\/10\/09\/the-future-of-css-easy-light-dark-mode-color-switching-with-light-dark\/",
+        "info": "INFO: Om\u00f3wienie nowej funkcji w CSS, kt\u00f3rej celem jest dobranie warto\u015bci parametru (np. koloru t\u0142a, tekstu itp.) w zale\u017cno\u015bci od tego, czy u\u017cytkownik wymusza ciemny tryb witryny, czy te\u017c nie. Tak \u0142atwo jeszcze nigdy nie by\u0142o. Z\u0142a wiadomo\u015b\u0107? Funkcja jest obecnie wspierana tylko przez Firefoxa.",
+        "date": "2023-10-13"
+    },
+    {
+        "title": "Co kryje si\u0119 w katalogu .git?",
+        "url": "https:\/\/blog.meain.io\/2023\/what-is-in-dot-git\/",
+        "info": "INFO: GIT to narz\u0119dzie u\u017cywane przez miliony programist\u00f3w, a ca\u0142e repozytorium z commitami to zaledwie jeden folder. Pytanie jednak brzmi: co jest w \u015brodku i jak to dzia\u0142a? Materia\u0142 dla bardzo dociekliwych.",
+        "date": "2023-10-13"
+    },
+    {
+        "title": "Jak efektywnie u\u017cywa\u0107 obraz\u00f3w zast\u0119pczych w aplikacji webowej?",
+        "url": "https:\/\/csswizardry.com\/2023\/09\/the-ultimate-lqip-lcp-technique\/",
+        "info": "INFO: Wi\u0119kszo\u015b\u0107 wsp\u00f3\u0142czesnych aplikacji webowych korzysta z grafik, a one bywaj\u0105 ci\u0119\u017ckie. Mo\u017cna oczywi\u015bcie kaza\u0107 u\u017cytkownikowi czeka\u0107 na ich za\u0142adowanie, ale ciekawsz\u0105 technik\u0105 jest stosowanie lekkich obraz\u00f3w zast\u0119pczych, wy\u015bwietlanych podczas \u0142adowania ich ci\u0119\u017cszych odpowiednik\u00f3w. Tylko jak to zrobi\u0107 w profesjonalny spos\u00f3b?",
+        "date": "2023-10-13"
+    },
+    {
+        "title": "Flexoki - schemat kolor\u00f3w dla strony dobry do tekst\u00f3w i kodu",
+        "url": "https:\/\/stephango.com\/flexoki",
+        "info": "INFO: Proste, ale bardzo przyjemne rozwi\u0105zanie. Schemat dostosowany jak m\u00f3wi autor \"do prozy i kodu\". Warto pobawi\u0107 si\u0119 prze\u0142\u0105cznikiem light\/dark mode. Rozwi\u0105zanie prezentuje si\u0119 bardzo przyjemnie.",
+        "date": "2023-10-13"
+    },
+    {
+        "title": "Spacedrive - aplikacja do zarz\u0105dzania plikami na wielu maszynach",
+        "url": "https:\/\/github.com\/spacedriveapp\/spacedrive",
+        "info": "INFO: Jedna aplikacja do zarz\u0105dzania plikami na wielu r\u00f3\u017cnych lokalizacjach sk\u0142adowania danych jednocze\u015bnie. Wyobra\u017a to sobie jako wsp\u00f3ln\u0105, zunifikowan\u0105 chmur\u0119. Spacedrive jest obecnie w wersji Alpha, a docelowo ma dzia\u0142a\u0107 na Windows\/MacOS\/Linux\/iOS\/Android",
+        "date": "2023-10-13"
+    },
+    {
+        "title": "Narz\u0119dzie do pobierania informacji na temat w\u0142a\u015bciciela maila (OSINT)",
+        "url": "https:\/\/uw7.org\/un_b7304f0970f07\/",
+        "info": "INFO: Podajesz adres mailowy, a aplikacja pobiera wszystko, co tylko jest w stanie zdoby\u0107 na temat jego w\u0142a\u015bciciela. Us\u0142uga niby jest p\u0142atna, ale w wersji darmowej oferuje dostatecznie du\u017co funkcji u\u017cytecznych dla u\u017cytkownika. Po rejestracji (darmowe konto) zyskasz jeszcze wi\u0119cej opcji.",
+        "date": "2023-10-13"
+    },
+    {
+        "title": "Jak drastycznie podnie\u015b\u0107 sw\u00f3j poziom anonimowo\u015bci w sieci",
+        "url": "https:\/\/uw7.org\/un_318fbb41d8ac4\/",
+        "info": "INFO: To nie s\u0105 informacje potrzebne do czegokolwiek przeci\u0119tnemu u\u017cytkownikowi. Korzystanie z internetu w ten spos\u00f3b jest niewygodne, powolne i mocno wkurzaj\u0105ce, ale je\u015bli jeste\u015b np. dziennikarzem \u015bledczym, pracujesz w jednostkach odpowiedzialnych za rozpracowywanie grup przest\u0119pczych lub jako informator musisz przekaza\u0107 wra\u017cliwe dokumenty np. prasie, to te porady mog\u0105 by\u0107 dla Ciebie u\u017cyteczne.",
+        "date": "2023-10-13"
+    },
+    {
+        "title": "Spo\u0142eczne ozi\u0119bienie - efekt uboczny Big Data",
+        "url": "https:\/\/www.socialcooling.com\/",
+        "info": "INFO: Czy odczuwasz presj\u0119 bycia 'perfekcyjnym' w \u015bwiecie cyfrowym? Ten artyku\u0142 omawia 'spo\u0142eczne ozi\u0119bienie', czyli negatywne skutki przetwarzania ogromnej ilo\u015bci naszych danych na nasze zachowania i decyzje. Zobacz, jak prywatno\u015b\u0107 i wolno\u015b\u0107 mog\u0105 by\u0107 ograniczane przez niewidzialne algorytmy oceniaj\u0105ce ka\u017cdy nasz ruch.",
+        "date": "2023-10-06"
+    },
+    {
+        "title": "Maciek Aniserowicz u Przemka G\u00f3rczyka - wywiad (film, 2h i 17 minut)",
+        "url": "https:\/\/youtube.com\/watch?v=sAEIspeGnMk",
+        "info": "INFO: Rozmowa o wypaleniu zawodowym, wydawaniu kurs\u00f3w online, zarabianiu milion\u00f3w, podej\u015bciu do pracy i wielu innych tematach. Tre\u015b\u0107 bardziej do przemy\u015ble\u0144 dla ludzi dzia\u0142aj\u0105cych w bran\u017cy IT i my\u015bl\u0105cych o przysz\u0142o\u015bci swojej kariery.",
+        "date": "2023-10-06"
+    },
+    {
+        "title": "Implementacja inteligentnego domu z u\u017cyciem OutSystems",
+        "url": "https:\/\/itnext.io\/home-automation-with-outsystems-follow-up-ceda2176c5a6",
+        "info": "INFO: Ciekawe case study ogarni\u0119cia automatyzacji w domu z u\u017cyciem technologii no-code, kilku urz\u0105dze\u0144 IoT i starego tableta.",
+        "date": "2023-10-06"
+    },
+    {
+        "title": "Jak dzia\u0142a funkcja Find My, gdy iPhone jest wy\u0142\u0105czony?",
+        "url": "https:\/\/naehrdine.blogspot.com\/2021\/09\/always-on-processor-magic-how-find-my.html",
+        "info": "INFO: Czy zastanawia\u0142e\u015b si\u0119 kiedy\u015b, jak to mo\u017cliwe, \u017ce mo\u017cesz znale\u017a\u0107 sw\u00f3j iPhone, nawet gdy jest wy\u0142\u0105czony? Ten artyku\u0142 t\u0142umaczy jak dzia\u0142a technologia Always-on Processor (AOP) dost\u0119pna od iOS 15. Dowiedz si\u0119, jak procesor, kt\u00f3ry jest zawsze w\u0142\u0105czony, oszcz\u0119dza energi\u0119, a tak\u017ce jakie s\u0105 potencjalne zagro\u017cenia dla bezpiecze\u0144stwa z tego p\u0142yn\u0105ce.",
+        "date": "2023-10-06"
+    },
+    {
+        "title": "Przepalanie kasy na p\u0142atne reklamy dla narz\u0119dzi deweloperskich - czego si\u0119 nauczyli\u015bmy?",
+        "url": "https:\/\/posthog.com\/blog\/dev-marketing-paid-ads",
+        "info": "INFO: Zastanawiasz si\u0119, jak skutecznie zainwestowa\u0107 w reklam\u0119 swojego narz\u0119dzia dla programist\u00f3w? Ekipa PostHog dzieli si\u0119 swoimi do\u015bwiadczeniami i daje konkretne, praktyczne rady dla start-up\u00f3w. Autorzy dziel\u0105 si\u0119 swoimi opiniami o reklamach na Twitterze, Facebooku, Google, LinkedIn, Reddicie i kilku innych miejscach.",
+        "date": "2023-10-06"
+    },
+    {
+        "title": "Sk\u0105d Tw\u00f3j komputer wie, kt\u00f3ra jest godzina?",
+        "url": "https:\/\/dotat.at\/@\/2023-05-26-whence-time.html",
+        "info": "INFO: Pytanie wydaje si\u0119 banalne i istniej\u0105 na nie banalne odpowiedzi, jednak gdy zag\u0142\u0119bimy si\u0119 w temat, zaczyna by\u0107 ciekawie. Komputer pobiera czas z serwera NTP, ale sk\u0105d ten serwer wie, kt\u00f3ra jest godzina? Pobiera go z innego serwera, a sk\u0105d ten inny to wie? Pobiera go z GPS. Sk\u0105d GPS to wie? I tak w kilkudziesi\u0119ciu prostych krokach otrzymujemy odpowied\u017a :D",
+        "date": "2023-10-06"
+    },
+    {
+        "title": "Podbij swoj\u0105 karier\u0119 za pomoc\u0105 Symfony - Webinar [sponsorowane]",
+        "url": "https:\/\/asphp.pl\/bezplatny-webinar",
+        "info": "INFO: Webinar, podczas kt\u00f3rego Bartek Sosna demonstruje, jak Symfony przyspiesza rozw\u00f3j kariery programisty. Opowie o tym, jak zwi\u0119kszy\u0107 swoje zarobki i mie\u0107 wi\u0119cej czasu jako programista PHP.",
+        "date": "2023-10-06"
+    },
+    {
+        "title": "Co programista musi wiedzie\u0107 o unicode?",
+        "url": "https:\/\/tonsky.me\/blog\/unicode\/",
+        "info": "INFO: Czy wiesz, jak poprawnie korzysta\u0107 z UTF-8? Artyku\u0142 w przyst\u0119pny spos\u00f3b t\u0142umaczy zasady dzia\u0142ania Unicode i problematyk\u0119 zwi\u0105zan\u0105 z kodowaniem znak\u00f3w. Dlaczego jeden znak zajmuje wiele bajt\u00f3w i dlaczego jest to tak zmienne? Ile r\u00f3\u017cnych symboli pomie\u015bci UTF-8 i jaka cz\u0119\u015b\u0107 jego pojemno\u015bci jest ju\u017c zu\u017cyta? Sporo ciekawostek dla os\u00f3b lubi\u0105cych dog\u0142\u0119bnie poznawa\u0107 zagadnienia technologiczne.",
+        "date": "2023-10-06"
+    },
+    {
+        "title": "Nie potrzebujesz dedykowanej us\u0142ugi cache - PostgreSQL wystarczy",
+        "url": "https:\/\/martinheinz.dev\/blog\/105",
+        "info": "INFO: Stawianie oddzielnej aplikacji do ogarniania pami\u0119ci cache w aplikacji jest do\u015b\u0107 popularne, ale dlaczego programista mia\u0142by nie wykorzysta\u0107 \u015bwietnie znanej mu bazy PostgreSQL w tym celu? A mo\u017ce, w niekt\u00f3rych przypadkach, b\u0119dzie to nawet lepsze rozwi\u0105zanie ni\u017c dedykowana aplikacja?",
+        "date": "2023-10-06"
+    },
+    {
+        "title": "Dependabot dodaje szkodliwy kod do Twojej aplikacji?!",
+        "url": "https:\/\/checkmarx.com\/blog\/surprise-when-dependabot-contributes-malicious-code\/",
+        "info": "INFO: Hakerzy manipuluj\u0105 commitami, wykorzystuj\u0105c Dependabota jako kamufla\u017c. Artyku\u0142 przedstawia mechanizmy ataku, analizuje przeprowadzone dzia\u0142ania i daje wskaz\u00f3wki, jak zabezpieczy\u0107 si\u0119 przed podobnymi zagro\u017ceniami.",
+        "date": "2023-10-06"
+    },
+    {
+        "title": "Zdobycie roota na Ubuntu z u\u017cyciem logrotate",
+        "url": "https:\/\/joshua.hu\/gaining-root-with-logrotate-sudo-ubuntu",
+        "info": "INFO: Ubuntu 22.04 posiada konto zdatne do uruchamiania aplikacji logrotate poprzez sudo. Czy to wystarczaj\u0105ce uprawnienia do przej\u0119cia kontroli nad serwerem? Jak najbardziej! :)",
+        "date": "2023-10-06"
+    },
+    {
+        "title": "Tysi\u0105ce kluczy API ujawnionych w komentarzach na GitHubie",
+        "url": "https:\/\/trufflesecurity.com\/blog\/thousands-of-github-comments-leak-live-api-keys\/",
+        "info": "INFO: Badacze z Truffle Security odkryli, \u017ce spora liczba kluczy dost\u0119powych l\u0105duje w komentarzach na GitHubie (nie w samych commitach). Dowiedz si\u0119, dlaczego edycja komentarzy nie usuwa ich z historii i jakie s\u0105 konsekwencje takiego b\u0142\u0119du dla bezpiecze\u0144stwa danych. Co mo\u017cna zrobi\u0107, aby temu zjawisku przeciwdzia\u0142a\u0107? Wi\u0119cej w artykule.",
+        "date": "2023-10-06"
+    },
+    {
+        "title": "Om\u00f3wienie wszystkich rodzaj\u00f3w wagon\u00f3w kolejowych (film, 17 minut)",
+        "url": "https:\/\/www.youtube.com\/watch?v=psjExhXfvbI",
+        "info": "INFO: Temat mo\u017ce wydawa\u0107 si\u0119 do\u015b\u0107 nudny, ale jest jak najbardziej techniczny i jest szansa, \u017ce zainteresuje nie tylko fan\u00f3w zagadnie\u0144 kolejowych. Masz spore zaleg\u0142o\u015bci w projektach, szef ci\u015bnie z zadaniami, a na uczelni urwanie g\u0142owy? To idealny moment na prokrastynacje i ogl\u0105danie filmu o wagonach ;)",
+        "date": "2023-10-06"
+    },
+    {
+        "title": "Czym si\u0119 r\u00f3\u017cni pseudonimizacja od anonimizacji? (film, 46 minut)",
+        "url": "https:\/\/www.internet-czas-dzialac.pl\/pseudonimizacja-a-anonimizacja\/",
+        "info": "INFO: Czy patrz\u0105c na dane, mo\u017cna jednoznacznie stwierdzi\u0107, \u017ce s\u0105 anonimowe? Czy np. haszowanie numer\u00f3w telefonu to skuteczna pseudonimizacja? Adwokatka i kryptolog podejmuj\u0105 pr\u00f3b\u0119 pogodzenia prawnych i matematycznych definicji poj\u0119\u0107 \"anonimizacja\" i \"pseudonimizacja\".",
+        "date": "2023-10-06"
+    },
+    {
+        "title": "Hardenowanie macOS - z uwzgl\u0119dnieniem nowego systemu Sonoma",
+        "url": "https:\/\/www.bejarano.io\/hardening-macos\/",
+        "info": "INFO: Jak zwi\u0119kszy\u0107 bezpiecze\u0144stwo MacOS? Oto lista \u0142atwych do wprowadzenia modyfikacji. Tekst zosta\u0142 zaktualizowany, uwzgl\u0119dniaj\u0105c najnowszy system operacyjny od Apple.",
+        "date": "2023-10-06"
+    },
+    {
+        "title": "Jak rozpozna\u0107 fonta ze zdj\u0119cia\/tekstu z sieci",
+        "url": "https:\/\/stackdiary.com\/how-to-identify-fonts\/",
+        "info": "INFO: Widzisz naprawd\u0119 ciekawego fonta u\u017cytego na pewnej stronie lub w reklamie graficznej. Co to za font? Istnieje kilka sposob\u00f3w\/serwis\u00f3w na rozpoznanie tego. Dlaczego a\u017c kilka, je\u015bli mo\u017cna u\u017cy\u0107 jednego? Po pierwsze, nie ka\u017cda us\u0142uga posiada w swojej bazie wszystkie fonty, kt\u00f3rych szukasz, a po drugie, serwisy oferuj\u0105 r\u00f3\u017cn\u0105 trafno\u015b\u0107 w rozpoznawaniu tekstu.",
+        "date": "2023-10-06"
+    },
+    {
+        "title": "Kt\u00f3r\u0105 baz\u0119 wektorow\u0105 wybra\u0107? - por\u00f3wnanie 7 najpopularniejszych",
+        "url": "https:\/\/benchmark.vectorview.ai\/vectordbs.html",
+        "info": "INFO: W dobie sztucznej inteligencji i implementacji podej\u015bcia typu RAG, bazy wektorowe sta\u0142y si\u0119 niezwykle popularne. Maj\u0105c do wyboru Pinecone, Weviate, Milvus, Qdrant, Chroma, Elasticsearch i PGvector, kt\u00f3r\u0105 i dlaczego mia\u0142by\u015b wybra\u0107? Zwi\u0119z\u0142e por\u00f3wnanie.",
+        "date": "2023-10-06"
+    },
+    {
+        "title": "Hiperpersonalizacja AI, czyli GPT-4 dopasowane do Ciebie [autopromocja]",
+        "url": "https:\/\/www.aidevs.pl\/webinar",
+        "info": "INFO: Dlaczego mia\u0142by\u015b korzysta\u0107 z publicznie dost\u0119pnych, og\u00f3lnikowych odpowiedzi z GPT-4, je\u015bli mo\u017cesz dostosowa\u0107 ten model (korzystaj\u0105c z API) do swoich potrzeb, dodaj\u0105c do niego d\u0142ugoterminow\u0105 pami\u0119\u0107, interakcj\u0119 z us\u0142ugami i urz\u0105dzeniami IoT, dost\u0119p do internetu i wiele, wiele innych. Ju\u017c za kilkana\u015bcie dni, wraz z Adamem Gospodarczykiem i Mateuszem Chrobokiem widzimy si\u0119 na webinarze na ten temat. Zapisz si\u0119 na list\u0119 zainteresowanych, a wtedy, nawet je\u015bli Ci\u0119 nie b\u0119dzie z nami na \u017cywo, prze\u015blemy Ci linka do nagrania.",
+        "date": "2023-10-06"
+    },
+    {
+        "title": "Plusy i minusy \"text-wrap: balance\" + polifil (CSS)",
+        "url": "https:\/\/bleech.de\/en\/blog\/the-ups-and-downs-of-text-wrap-balance-and-a-polyfill\/",
+        "info": "INFO: Tekst przygotowany przez copywritera nie zawsze rozk\u0142ada si\u0119 r\u00f3wnomiernie na stronie. Niekiedy jedno s\u0142owo przeskakuje do kolejnej linii, a jeszcze innym razem pierwsza linia nag\u0142\u00f3wka zawiera 8 s\u0142\u00f3w, a druga tylko 3. Jak to zr\u00f3wnowa\u017cy\u0107? Istniej\u0105 oczywi\u015bcie r\u0119czne metody na rozwi\u0105zanie tego problemu, ale od pewnego czasu CSS ma natywne rozwi\u0105zanie, kt\u00f3re pomo\u017ce Ci ogarn\u0105\u0107 ten temat.",
+        "date": "2023-10-06"
+    },
+    {
+        "title": "Jak zmusi\u0107 stare aplikacje do obs\u0142ugi protoko\u0142u IPv6 (Linux)",
+        "url": "https:\/\/blog.apnic.net\/2023\/06\/21\/enabling-ipv6-support-for-ipv4-only-apps-on-linux\/",
+        "info": "INFO: Istniej\u0105 aplikacje, kt\u00f3re powsta\u0142y w epoce IPv4-only. Nie spos\u00f3b nam\u00f3wi\u0107 je standardowymi metodami na wspieranie adresacji IPv6, ale z pomoc\u0105 przychodzi nam LD_PRELOAD.",
+        "date": "2023-10-06"
+    },
+    {
+        "title": "Kata Containers - lekkie maszyny wirtualne",
+        "url": "https:\/\/katacontainers.io\/",
+        "info": "INFO: Kontenery s\u0105 lekkie, wirtualne maszyny maj\u0105 znacznie lepsz\u0105 izolacj\u0119 zasob\u00f3w. A gdyby po\u0142\u0105czy\u0107 te dwie rzeczy w jedn\u0105 ca\u0142o\u015b\u0107? Tak powsta\u0142y Kata COntainers, czyli system zarz\u0105dzania kontenerami (kompatybilne np. z Dockerem), ale uruchamiane w stylu VM-ek. Projekt si\u0119 rozwija, wi\u0119c ma pewne ograniczenia (wi\u0119cej o nich w dokumentacji), ale zapowiada si\u0119 ciekawie.",
+        "date": "2023-10-06"
+    },
+    {
+        "title": "Table-Saw - komponent do wy\u015bwietlania responsywnych tabel",
+        "url": "https:\/\/github.com\/zachleat\/table-saw",
+        "info": "INFO: Chcesz zaprezentowa\u0107 du\u017c\u0105 ilos\u0107 danych w postaci tabelarycznej? Na desktopie wszystko wygl\u0105da \u015bwietnie, ale na urz\u0105dzeniach mobilnych przegl\u0105danie takiej tabeli to koszmar? Ten komponent poprawi dla Ciebie responsywnos\u0107 tabel i je\u015bli to b\u0119dzie konieczne, przebuduje je w taki spos\u00f3b, aby dane by\u0142y prezentowane pionowo zamiast poziomo. Rzu\u0107 okiem na demo, aby zrozumie\u0107, jak to dzia\u0142a.",
+        "date": "2023-10-06"
+    },
+    {
+        "title": "Generator plik\u00f3w JSON - przyk\u0142adowe dane",
+        "url": "https:\/\/www.jsongenerator.io\/",
+        "info": "INFO: Definiujesz struktur\u0119 danych, na jakiej Ci zale\u017cy, ustawiasz p\u0119tle na liczb\u0119 potrzebnych rekord\u00f3w, a na koniec tylko umieszczasz odpowiednie placeholdery w kodzie i gotowe. Przydatne narz\u0119dzie do przygotowywania danych testowych do swoich aplikacji.",
+        "date": "2023-10-06"
+    },
+    {
+        "title": "W\u0142a\u015bciwo\u015b\u0107 HTMLElement.dataset w czystym JavaScript",
+        "url": "https:\/\/gomakethings.com\/the-htmlelement.dataset-property-in-vanilla-javascript\/",
+        "info": "INFO: Przetrzymywanie danych bezpo\u015brednio w atrybutach drzewa DOM to do\u015b\u0107 cz\u0119sta praktyka. Ten artyku\u0142 wyja\u015bni Ci, jak \u0142atwo mo\u017cna p\u00f3\u017aniej si\u0119 do takich danych dobra\u0107, a nawet jak je edytowa\u0107 z poziomu JS.",
+        "date": "2023-10-06"
+    },
+    {
+        "title": "Gmail wprowadza reakcje na maile za pomoc\u0105 emoji",
+        "url": "https:\/\/support.google.com\/mail\/answer\/14080429?visit_id=638319434506118031-3649702038&p=emoji_reactions&rd=1",
+        "info": "INFO: Wydaje si\u0119 to niewielkim i do tego nikomu niepotrzebnym drobiazgiem, jednak w \u015brodowiskach korporacyjnych mo\u017ce to by\u0107 gamechanger. Koniec z zastanawianiem si\u0119, czy szef widzia\u0142 maila, koniec z odpisywaniem \"ACK\" na wiadomo\u015bci. Po prostu jednym klikiem dajesz zna\u0107 odbiorcy, czy np. akceptujesz jego prost\u0105 sugesti\u0119, czy nie, albo oznaczasz maila, m\u00f3wi\u0105c za pomoc\u0105 obrazu 'dzi\u0119ki za info'.",
+        "date": "2023-10-06"
+    },
+    {
+        "title": "Przegl\u0105darka Vivaldi jest ju\u017c dost\u0119pna na iOS",
+        "url": "https:\/\/vivaldi.com\/blog\/vivaldi-browser-launches-on-ios\/",
+        "info": "INFO: Ten news z pewno\u015bci\u0105 ucieszy wielbicieli Vivaldi w wersji desktopowej. Obecnie nie widz\u0119 w spisie funkcji niczego b\u0119d\u0105cego rewolucj\u0105, ale z pewno\u015bci\u0105 projekt b\u0119dzie dalej rozwijany. Interesuj\u0105co wygl\u0105da Vivaldi w wersji na iPadOS.",
+        "date": "2023-10-06"
+    },
+    {
+        "title": "Wzorzec obserwator w interfejsie u\u017cytkownika - czym jest?",
+        "url": "https:\/\/swistak.codes\/post\/obserwator\/",
+        "info": "INFO: Artyku\u0142 przedstawia jedn\u0105 podstawowych koncepcji stoj\u0105cych za interaktywno\u015bci\u0105 UI, czyli wzorzec projektowy obserwator. Od podstawowej, ksi\u0105\u017ckowej implementacji, przez uproszczon\u0105 po gotowe rozwi\u0105zania dost\u0119pne dla r\u00f3\u017cnych j\u0119zyk\u00f3w.",
+        "date": "2023-10-06"
+    },
+    {
+        "title": "Idiomy programistyczne - jak to napisa\u0107 w j\u0119zyku X?",
+        "url": "https:\/\/www.programming-idioms.org\/all-idioms",
+        "info": "INFO: Ponad 330 'idiom\u00f3w', czyli fragment\u00f3w kodu prezentuj\u0105cych standardowe metody implementacji najcz\u0119stszych rzeczy w j\u0119zykach programowania. Wyszukiwanie warto\u015bci, deklaracje funkcji, zamiana warto\u015bci zmiennych i wiele innych. Idealne do nauki programowania nowego j\u0119zyka.",
+        "date": "2023-10-06"
+    },
+    {
+        "title": "Wzorzec projektowy Dekorator w praktyce",
+        "url": "https:\/\/devszczepaniak.pl\/wzorzec-projektowy-dekorator\/",
+        "info": "INFO: Wykorzystanie wzorca projektowego Dekorator to prosty spos\u00f3b by w prosty i schludny spos\u00f3b rozszerzy\u0107 mo\u017cliwo\u015bci kodu. W najnowszym wpisie na blogu dziel\u0119 si\u0119 za\u0142o\u017ceniami stoj\u0105cymi za Dekoratorem, jego wadami i zaletami. Przedstawiam te\u017c, jak wygl\u0105da zastosowanie dekorator\u00f3w w JavaScript i TypeScript w praktyce. W artykule przemyci\u0142em r\u00f3wnie\u017c wiele praktycznych przypadk\u00f3w, gdzie wykorzystanie dekoratora pasuje idealnie.",
+        "date": "2023-10-06"
+    },
+    {
+        "title": "CSS Subgrid - jak to dzia\u0142a?",
+        "url": "https:\/\/web.dev\/css-subgrid\/",
+        "info": "INFO: Je\u015bli komu\u015b ma\u0142o standardowego grida w CSS, to mo\u017ce jeszcze bardziej zag\u0142\u0119bi\u0107 si\u0119 w temat i lepiej sterowa\u0107 struktur\u0105 strony za pomoc\u0105 subgrid\u00f3w. Do czego one s\u0142u\u017c\u0105 i jak ich u\u017cywa\u0107?",
+        "date": "2023-10-06"
+    },
+    {
+        "title": "Lista 18 stron z darmowymi wektorowymi ilustracjami wysokiej jako\u015bci",
+        "url": "https:\/\/uw7.org\/un_45a0105ea3b16\/",
+        "info": "INFO: Ten artyku\u0142 to przegl\u0105d 18 serwis\u00f3w, na kt\u00f3rych publikowane s\u0105 profesjonalne (i darmowe!) grafiki wektorowe. Artyku\u0142 zwraca uwag\u0119 tak\u017ce na kwesti\u0119 licencji tych grafik, poniewa\u017c nie wszystkie nadaj\u0105 si\u0119 do wykorzystania komercyjnego.",
+        "date": "2023-10-06"
+    },
+    {
+        "title": "Kilkana\u015bcie tysi\u0119cy pomys\u0142\u00f3w na startupy",
+        "url": "https:\/\/uw7.org\/un_ca956e270bd9c\/",
+        "info": "INFO: Kto\u015b wpad\u0142 na ambitny pomys\u0142. Automatycznie zaci\u0105gni\u0119to dane na temat obowi\u0105zk\u00f3w wykonywanych na kilkuset stanowiskach z r\u00f3\u017cnych dziedzin, a nast\u0119pnie przekszta\u0142cono je na pomys\u0142y starupowe. W praktyce wszystko i tak sprowadza si\u0119 do zast\u0105pienia tego, co do tej pory by\u0142o wykonywane przez cz\u0142owieka za pomoc\u0105 automat\u00f3w. Lista jest zbyt d\u0142uga, aby da\u0142o si\u0119 j\u0105 przeczyta\u0107, ale je\u015bli chodzi Ci po g\u0142owie pomys\u0142 na biznes zwi\u0105zany z czym\u015b konkretnym (np. gry komputerowe, handel, obs\u0142uga u\u017cytkownika itp.), to mo\u017cesz wyszuka\u0107 pomys\u0142\u00f3w z tym zwi\u0105zanych w podlinkowanym spisie.",
+        "date": "2023-10-06"
+    },
+    {
+        "title": "JS Crush - jedna z trudniejszych gier ucz\u0105cych JavaScriptu (gra!)",
+        "url": "https:\/\/js-crush.vercel.app\/",
+        "info": "INFO: To typowa gra polegaj\u0105ca na \u0142\u0105czeniu takich samych element\u00f3w. Zasady s\u0105 takie same jak w ka\u017cdej grze typu \"Match\". Mo\u017cesz po\u0142\u0105czy\u0107 dowoln\u0105 liczb\u0119 element\u00f3w, kt\u00f3re przedstawiaj\u0105 tak\u0105 sam\u0105 warto\u015b\u0107. Na czym polega problem? Zamiast kolor\u00f3w\/kszta\u0142t\u00f3w s\u0105... wyra\u017cenia z JavaScript i to sprawia, \u017ce zaczyna robi\u0107 si\u0119 naprawd\u0119 ciekawie. Zdob\u0105d\u017a jak najwi\u0119cej punkt\u00f3w w 60 sekund. Metoda losowego \u0142\u0105czenia element\u00f3w nie daje przyzwoitej punktacji - sprawdza\u0142em ;)",
+        "date": "2023-09-29"
+    },
+    {
+        "title": "Technologiczna niezale\u017cno\u015b\u0107 - jak j\u0105 uzyska\u0107?",
+        "url": "https:\/\/sive.rs\/ti",
+        "info": "INFO: Jedna firma zapewnia Ci skrzynk\u0119 na maile, druga serwer VPS, trzecia synchronizacj\u0119 plik\u00f3w w chmurze, kolejna daje hosting pod stron\u0119 itd. Od jak wielu firm zale\u017cna jest Twoja obecno\u015b\u0107 w sieci? Ten poradnik pomo\u017ce Ci zmniejszy\u0107 t\u0119 liczb\u0119 do 1-2 firm.",
+        "date": "2023-09-29"
+    },
+    {
+        "title": "Efektywny in\u017cynier? - zbi\u00f3r porad zwi\u0119kszaj\u0105cych produktywno\u015b\u0107 i rozw\u00f3j ludzi z IT",
+        "url": "https:\/\/gist.github.com\/rondy\/af1dee1d28c02e9a225ae55da2674a6f",
+        "info": "INFO: Co sprawia, \u017ce niekt\u00f3rzy in\u017cynierowie s\u0105 tak efektywni? Edmond Lau podpowiada jak zdobywa\u0107 nowe umiej\u0119tno\u015bci, jak skupia\u0107 si\u0119 na najwa\u017cniejszych zadaniach i jak usprawnia\u0107 swoj\u0105 prac\u0119. Wszystko to znajdziesz w jego ksi\u0105\u017cce 'Efektywny In\u017cynier', a jej podsumowanie znajdziesz w tym artykule.",
+        "date": "2023-09-29"
+    }
+]
