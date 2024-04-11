@@ -17,7 +17,8 @@
     "task11": "bun tasks/task11/task11_whoami.ts",
     "task12": "bun tasks/task12/task12_qdrant.ts",
     "task13": "bun tasks/task13/task13_people.ts",
-    "task14": "bun tasks/task14/task14_knowledge.ts"
+    "task14": "bun tasks/task14/task14_knowledge.ts",
+    "task15": "bun tasks/task15/task15_tools.ts"
   },
   "devDependencies": {
     "bun-types": "latest"
