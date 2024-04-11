@@ -1,2 +1,11 @@
 ### GET page
 GET https://www.searchenginejournal.com/category/seo/
+
+###
+POST https://hook.eu2.make.com/8h2s8i6yn8vkeb71f1bilhcp8vakjpnm
+Content-Type: application/json
+
+{
+  "question": "What is football?"
+}
+

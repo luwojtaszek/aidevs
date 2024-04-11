@@ -19,7 +19,8 @@
     "task13": "bun tasks/task13/task13_people.ts",
     "task14": "bun tasks/task14/task14_knowledge.ts",
     "task15": "bun tasks/task15/task15_tools.ts",
-    "task16": "bun tasks/task16/task16_gnome.ts"
+    "task16": "bun tasks/task16/task16_gnome.ts",
+    "task17": "bun tasks/task17/task17_ownapi.ts"
   },
   "devDependencies": {
     "bun-types": "latest"
