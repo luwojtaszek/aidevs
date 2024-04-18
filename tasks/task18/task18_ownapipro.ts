@@ -1,13 +1,12 @@
 import { api, BaseResponse } from '../../core/api.ts';
-import { OwnApiTaskResponse } from './types.ts';
+import { AnswerType, OwnApiProTaskResponse } from './types.ts';
 import { withErrorHandling } from '../../core/errors.ts';
-import { AnswerType } from '../task13/types.ts';
 
-const TASK_NAME = 'ownapi';
+const TASK_NAME = 'ownapipro';
 const main = async (): Promise<BaseResponse> => {
   const token = (await api.auth({ taskName: TASK_NAME })).token;
 
-  const task = await api.getTask<OwnApiTaskResponse>({
+  const task = await api.getTask<OwnApiProTaskResponse>({
     token: token,
   });
 
@@ -15,9 +14,9 @@ const main = async (): Promise<BaseResponse> => {
 
   return await api.answerTask<AnswerType>({
     token: token,
-    answer: 'https://hook.eu2.make.com/8h2s8i6yn8vkeb71f1bilhcp8vakjpnm',
+    answer: 'https://hook.eu2.make.com/b7bdrl49ofu8aaueivswajgiom3jd5ty',
   });
 };
 
-const response = await withErrorHandling(main);
+const response = await withErrorHandling(main, { logError: true });
 console.log(response);

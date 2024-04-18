@@ -9,3 +9,10 @@ Content-Type: application/json
   "question": "What is football?"
 }
 
+###
+POST https://hook.eu2.make.com/b7bdrl49ofu8aaueivswajgiom3jd5ty
+Content-Type: application/json
+
+{
+  "question": "I like pizza"
+}
