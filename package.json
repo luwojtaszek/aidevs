@@ -22,7 +22,8 @@
     "task16": "bun tasks/task16/task16_gnome.ts",
     "task17": "bun tasks/task17/task17_ownapi.ts",
     "task18": "bun tasks/task18/task18_ownapipro.ts",
-    "task19": "bun tasks/task19/task19_meme.ts"
+    "task19": "bun tasks/task19/task19_meme.ts",
+    "task20": "bun tasks/task20/task20_optimaldb.ts"
   },
   "devDependencies": {
     "bun-types": "latest"
