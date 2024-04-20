@@ -16,3 +16,21 @@ Content-Type: application/json
 {
   "question": "I like pizza"
 }
+
+###
+POST https://hook.eu2.make.com/uoaqoew56fp8zoz3zgbpffgka3bbkc58
+Content-Type: application/json
+
+{
+  "question": "Szukam adresu strony na której mogę się zapisać na newsletter prowadzony przez Jakuba Mrugalskiego. To jakiś newsletter technologiczny, ale nie pamietam nazwy. Please provide an URL!"
+}
+
+###
+POST https://hooks.slack.com/workflows/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
+Content-Type: application/json
+
+{
+  "title": "Article Title",
+  "summary": "Article summary",
+  "url": "http://wp.pl"
+}

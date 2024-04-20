@@ -1,0 +1,20 @@
+###
+POST https://api.perplexity.ai/chat/completions
+accept: application/json
+Content-Type: application/json
+Authorization: Bearer {{perplexity-key}}
+
+{
+  "model": "sonar-medium-online",
+  "messages": [
+    {
+      "role": "system",
+      "content": "Find and return page url based on user question. Rules: - Return page url and nothing else. Question: "
+    },
+    {
+      "role": "user",
+      "content": "Adres URL do newslettera technologicznego Jakuba Mrugalskiego"
+    }
+  ]
+}
+

@@ -171,3 +171,4 @@ dist
 .yarn/install-state.gz
 .pnp.\*
 qdrant_storage
+http-client.private.env.json
