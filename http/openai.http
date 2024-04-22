@@ -1,0 +1,27 @@
+### DELETE
+DELETE https://api.openai.com/v1/models/ft:gpt-3.5-turbo-0125:personal:md2html3:9GncgS8k:ckpt-step-78
+Authorization: Bearer {{openai-key}}
+
+### DELETE
+DELETE https://api.openai.com/v1/models/ft:gpt-3.5-turbo-0125:personal:md2html3:9GncgKkk
+Authorization: Bearer {{openai-key}}
+
+### DELETE
+DELETE https://api.openai.com/v1/models/ft:gpt-3.5-turbo-0125:personal:md2html:9GlYKe6i:ckpt-step-80
+Authorization: Bearer {{openai-key}}
+
+### DELETE
+DELETE https://api.openai.com/v1/models/ft:gpt-3.5-turbo-0125:personal:md2html:9GlYKMqR:ckpt-step-90
+Authorization: Bearer {{openai-key}}
+
+### DELETE
+DELETE https://api.openai.com/v1/models/ft:gpt-3.5-turbo-0125:personal:md2html2:9Glq9tio:ckpt-step-80
+Authorization: Bearer {{openai-key}}
+
+### DELETE
+DELETE https://api.openai.com/v1/models/ft:gpt-3.5-turbo-0125:personal:md2html2:9Glq9ukw:ckpt-step-90
+Authorization: Bearer {{openai-key}}
+
+### SEARCH
+GET https://api.openai.com/v1/models
+Authorization: Bearer {{openai-key}}

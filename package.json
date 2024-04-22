@@ -24,7 +24,8 @@
     "task18": "bun tasks/task18/task18_ownapipro.ts",
     "task19": "bun tasks/task19/task19_meme.ts",
     "task20": "bun tasks/task20/task20_optimaldb.ts",
-    "task21": "bun tasks/task21/task21_google.ts"
+    "task21": "bun tasks/task21/task21_google.ts",
+    "task22": "bun tasks/task22/task22_md2html.ts"
   },
   "devDependencies": {
     "bun-types": "latest"
