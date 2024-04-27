@@ -20,7 +20,16 @@ $('#archives-wrapper article').each((index, element) => {
   let isFromYesterday = false;
 
   try {
-    const parsedPublishDate = new Date(Date.parse(publishDate.replace(/,/g, '')));
+    let parsedPublishDate = null;
+
+    if (publishDate.includes('hours ago')) {
+      let hours = parseInt(publishDate.match(/\d+/));
+      parsedPublishDate = new Date();
+      parsedPublishDate.setHours(parsedPublishDate.getHours() - hours);
+    } else {
+      parsedPublishDate = new Date(Date.parse(publishDate.replace(/,/g, '')));
+    }
+
     isFromYesterday = parsedPublishDate >= yesterdayStart.getTime() && parsedPublishDate < todayStart.getTime();
   } catch (e) {}
 
@@ -48,9 +57,9 @@ for (let i = 0; i < articlesFromYesterday.length; i++) {
 
     article.content = $article('article.post header').html() + $article('article.post .entrycontent').html();
   } catch (e) {
-    article.content = '';
+    article.content;
   }
 }
 
 return articlesFromYesterday.filter((article) => article.content);
-console.log(articlesFromYesterday.filter((article) => article.content));
+// console.log(articlesFromYesterday.filter((article) => article.content));
